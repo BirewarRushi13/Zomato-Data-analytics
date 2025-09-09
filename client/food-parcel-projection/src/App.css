@@ -1,0 +1,68 @@
+.fpp_hp_header {
+  padding: 0 15px;
+  background-color: #d30c2b;
+}
+
+.fpp_hp_header_img {
+  height: 100px;
+  width: auto;
+}
+
+/* .fpp_hp_form_title {
+  width: fit-content;
+} */
+.fpp_hp_form_p {
+  color: gray;
+  size: 20px;
+}
+
+.fpp_hp_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #d30c2b;
+  gap: 15px;
+  padding: 25px;
+}
+
+.fpp_hp_form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 35px;
+  flex-wrap: wrap;
+  padding: 25px;
+}
+
+.fpp_hp_form_input {
+  width: 250px;
+  display: inline;
+}
+
+.fpp_hp_rec {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 25px;
+}
+
+.fpp_hp_rec_sugg {
+  width: 40%;
+}
+
+.fpp_hp_rec_sugg-h {
+  color: #d30c2b;
+}
+
+.fpp_hp_rec_sugg-span {
+  color: #53a49e;
+  font-weight: 25px;
+}
+
+.fpp_hp_rec_sugg_err {
+  text-align: center;
+  color: #d30c2b;
+}
