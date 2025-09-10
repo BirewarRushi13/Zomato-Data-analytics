@@ -1,7 +1,8 @@
 # Zomato-Data-Analytics
 
-![Logo](https://i.ibb.co/Jx1dQqY/Screenshot-53.jpg)
 ![Logo](https://i.ibb.co/ccj0mFMd/download.png)
+![Logo](https://i.ibb.co/Jx1dQqY/Screenshot-53.jpg)
+
 
 ## Project Description
 
