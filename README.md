@@ -1,8 +1,7 @@
 # Zomato-Data-Analytics
 
-![Logo](https://i.ibb.co/ccj0mFMd/download.png)
 ![Logo](https://i.ibb.co/Jx1dQqY/Screenshot-53.jpg)
-
+![Logo](https://i.ibb.co/ccj0mFMd/download.png)
 
 ## Project Description
 
@@ -87,14 +86,14 @@ npm start
 ![Dashboard](https://i.ibb.co/MMDmwc2/Screenshot-56.jpg)
 ![Webpage](https://i.ibb.co/m5F64vR5/Screenshot-2025-09-11-022319.png)
 
-## Conclusion
+## 🎯 Conclusion
 
 The project involved the development of machine learning models for predicting restaurant pricing and optimal locations. The performance of these models varied significantly:
 
-### Price Prediction Model
+### 💰 Price Prediction Model
 
 The model developed for predicting the price for one person at a restaurant achieved an impressive accuracy score of over 90%. This high level of accuracy demonstrates the model's proficiency in analyzing various factors, such as cuisine type, location, and other relevant features, to provide reliable price estimates.
 
-### Location Recommendation Model
+### 📍 Location Recommendation Model
 
 However, predicting suitable locations proved to be a complex task.
