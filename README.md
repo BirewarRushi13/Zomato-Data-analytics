@@ -83,7 +83,7 @@ npm start
 
 ## Dashboard and Webpage
 
-![Dashboard](https://i.ibb.co/MMDmwc2/Screenshot-56.jpg)
+![Dashboard](https://i.ibb.co/tM5S2K5R/Screenshot-2025-09-11-031159.png)
 ![Webpage](https://i.ibb.co/m5F64vR5/Screenshot-2025-09-11-022319.png)
 
 ## 🎯 Conclusion
