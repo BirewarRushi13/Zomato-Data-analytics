@@ -1,4 +1,4 @@
-,name,location,price_for_two,cuisines,rating,restaurant_link
+S no,Name,location,price_for_two,cuisines,rating,restaurant_link
 0,Cafe Delhi Heights,"Forum Rex Walk, Bangalore",1500,"North Indian, Oriental, Italian, Desserts, Beverages, Coffee, Sushi",4.2,https://www.zomato.com/bangalore/cafe-delhi-heights-brigade-road-bangalore/info
 1,Ouro,"Forum Rex Walk, Bangalore",3000,"European, Mexican, Desserts",New,https://www.zomato.com/bangalore/ouro-brigade-road-bangalore/info
 2,The Bier Library,"Koramangala 6th Block, Bangalore",1800,"North Indian, Pizza, European, American, Bar Food, Oriental, Desserts, BBQ",4.5,https://www.zomato.com/bangalore/the-bier-library-koramangala-6th-block-bangalore/info
@@ -20,7 +20,7 @@
 18,Roxie,"Sarjapur Road, Bangalore",2600,"Continental, Asian, North Indian, European, American, Italian, Pizza, Beverages",4.6,https://www.zomato.com/bangalore/roxie-sarjapur-road-bangalore/info
 19,Maffei Kitchen,"Koramangala 5th Block, Bangalore",1700,"Lebanese, Greek, Moroccan, Desserts, Beverages",4.7,https://www.zomato.com/bangalore/maffei-kitchen-1-koramangala-5th-block-bangalore/info
 20,Amintiri,"Church Street, Bangalore",1100,"Desserts, Bakery, Fast Food, Beverages, Pasta, Italian, Cafe, Finger Food",4.4,https://www.zomato.com/bangalore/amintiri-church-street-bangalore/info
-21,Citrus - The Leela Palace,"The Leela Palace, Old Airport Road, Bangalore",4700,"North Indian, Continental, Asian, Desserts",4.0,https://www.zomato.com/bangalore/citrus-the-leela-palace-airport-road/info
+21,Citrus - The Leela Palace,"The Leela Palace, Old Airport Road, Bangalore",4700,"North Indian, Continental, Asian, Desserts",4,https://www.zomato.com/bangalore/citrus-the-leela-palace-airport-road/info
 22,Long Boat Brewing Co.,"Marathahalli, Bangalore",2600,"Asian, Chinese, North Indian, Pizza, South Indian, Continental",4.2,https://www.zomato.com/bangalore/long-boat-brewing-co-marathahalli-bangalore/info
 23,Muro,"Church Street, Bangalore",3000,"Thai, Cantonese",4.5,https://www.zomato.com/bangalore/muro-church-street-bangalore/info
 24,Ministry of Food - Hilton Bangalore Embassy GolfLinks,"Hilton Bangalore Embassy GolfLinks, Domlur, Bangalore",3500,"Asian, Continental, Italian, North Indian, Mughlai, Desserts, Beverages",3.9,https://www.zomato.com/bangalore/ministry-of-food-hilton-bangalore-embassy-golflinks-domlur-bangalore/info
@@ -39,7 +39,7 @@
 37,Macaw By Stories,"Bommanahalli, Bangalore",1000,"South Indian, North Indian, Chinese, Pasta, Pizza, Fast Food, Salad, Desserts",4.2,https://www.zomato.com/bangalore/macaw-by-stories-bommanahalli-bangalore/info
 38,The Pizza Bakery,"Koramangala 5th Block, Bangalore",1500,"Pizza, Italian, Pasta, Salad, Continental, Desserts, Beverages",4.5,https://www.zomato.com/bangalore/the-pizza-bakery-koramangala-5th-block-bangalore/info
 39,North Star Cafe,"HSR, Bangalore",800,"Cafe, Bakery, Beverages, Desserts, Continental, Healthy Food",4.2,https://www.zomato.com/bangalore/north-star-cafe-hsr-bangalore/info
-40,Grazers Resto - Bar,"Jayanagar, Bangalore",1300,"North Indian, Salad, Continental, Burger, Pizza, Fast Food, Asian, Bar Food",4.0,https://www.zomato.com/bangalore/grazers-resto-bar-jayanagar-bangalore/info
+40,Grazers Resto - Bar,"Jayanagar, Bangalore",1300,"North Indian, Salad, Continental, Burger, Pizza, Fast Food, Asian, Bar Food",4,https://www.zomato.com/bangalore/grazers-resto-bar-jayanagar-bangalore/info
 41,Stories Brewery & Kitchen,"BTM, Bangalore",1800,"North Indian, Continental, Chinese, Finger Food, Beverages, Desserts",4.4,https://www.zomato.com/bangalore/stories-brewery-kitchen-btm-bangalore/info
 42,Zen - The Leela Palace,"The Leela Palace, Old Airport Road, Bangalore",3500,"Thai, Japanese, Chinese, Rolls",4.1,https://www.zomato.com/bangalore/zen-the-leela-palace-airport-road/info
 43,Homiga,"Forum Rex Walk, Bangalore",1500,"Korean, Asian",4.1,https://www.zomato.com/bangalore/homiga-brigade-road-bangalore/info
@@ -66,10 +66,10 @@
 64,Tastique,"Nagawara, Bangalore",1500,"North Indian, Chinese, Beverages",4.4,https://www.zomato.com/bangalore/tastique-6-nagawara-bangalore/info
 65,Brik Oven,"Indiranagar, Bangalore",1200,"Pizza, Fast Food, Desserts, Beverages",4.4,https://www.zomato.com/bangalore/brik-oven-indiranagar-bangalore/info
 66,Magique,"Koramangala 6th Block, Bangalore",1700,"Asian, Modern Indian, Continental, Italian, North Indian, Sushi, Desserts, Beverages",3.8,https://www.zomato.com/bangalore/magique-koramangala-6th-block-bangalore/info
-67,Melange,"Radisson Blu, Marathahalli, Bangalore",3500,"North Indian, South Indian, Continental, Italian, Desserts",4.0,https://www.zomato.com/bangalore/melange-marathahalli-bangalore/info
+67,Melange,"Radisson Blu, Marathahalli, Bangalore",3500,"North Indian, South Indian, Continental, Italian, Desserts",4,https://www.zomato.com/bangalore/melange-marathahalli-bangalore/info
 68,Nusa,"Varthur Main Road, Whitefield, Bangalore",1500,"Continental, Chinese",3.7,https://www.zomato.com/bangalore/nusa-varthur-main-road-whitefield-bangalore/info
 69,Restaurant Chef Pillai,"Brigade Road, Bangalore",1000,Kerala,4.4,https://www.zomato.com/bangalore/restaurant-chef-pillai-brigade-road-bangalore/info
-70,Secret Story,"Indiranagar, Bangalore",1500,"Continental, Asian, North Indian, Fast Food, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/secret-story-indiranagar-bangalore/info
+70,Secret Story,"Indiranagar, Bangalore",1500,"Continental, Asian, North Indian, Fast Food, Desserts, Beverages",4,https://www.zomato.com/bangalore/secret-story-indiranagar-bangalore/info
 71,Mykos Craft Kitchen & Bar,"Bannerghatta Road, Bangalore",1600,"Continental, Greek, Asian, Mediterranean, North Indian",4.3,https://www.zomato.com/bangalore/mykos-craft-kitchen-bar-bannerghatta-road-bangalore/info
 72,Tuk Tuk Thai - Pure Veg Asian Fine Dine,"Koramangala 5th Block, Bangalore",2000,"Thai, Asian, Chinese, Desserts, Beverages",4.8,https://www.zomato.com/bangalore/tuk-tuk-thai-pure-veg-asian-fine-dine-koramangala-5th-block-bangalore/info
 73,The Verandah Koramangala,"Koramangala 3rd Block, Bangalore",1500,"South Indian, Asian, Salad, Healthy Food, Chinese, Desserts",3.3,https://www.zomato.com/bangalore/the-verandah-koramangala-4-koramangala-3rd-block-bangalore/info
@@ -90,14 +90,14 @@
 88,The Caffeine Baar,"Jayanagar, Bangalore",950,"Cafe, Italian, Continental, Bakery, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/the-caffeine-baar-jayanagar-bangalore/info
 89,Raahi,"St. Marks Road, Bangalore",2000,"North Indian, Pasta, Pizza, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/raahi-st-marks-road-bangalore/info
 90,Float Brewery,"Kalyan Nagar, Bangalore",1500,"Bar Food, Continental, Italian, Asian, North Indian, Desserts, Pizza, Beverages",4.4,https://www.zomato.com/bangalore/float-brewery-kalyan-nagar-bangalore/info
-91,Harley's Fine Baking,"JP Nagar, Bangalore",600,"Bakery, Sandwich",4.0,https://www.zomato.com/bangalore/harleys-fine-baking-jp-nagar-bangalore/info
+91,Harley's Fine Baking,"JP Nagar, Bangalore",600,"Bakery, Sandwich",4,https://www.zomato.com/bangalore/harleys-fine-baking-jp-nagar-bangalore/info
 92,Bramble,"Jayanagar, Bangalore",1800,"Continental, Asian, North Indian, Italian, Bar Food, Beverages",4.5,https://www.zomato.com/bangalore/bramble-jayanagar-bangalore/info
 93,Hard Rock Cafe,"St. Marks Road, Bangalore",2500,"American, Continental, Burger, Sandwich, Fast Food, Desserts, Beverages",4.6,https://www.zomato.com/bangalore/hard-rock-cafe-st-marks-road/info
 94,Sashay-Taproom Kitchen,"Whitefield, Bangalore",2000,"Asian, Modern Indian, Continental, Sushi, North Indian, Chinese, Desserts, Beverages",4.8,https://www.zomato.com/bangalore/sashay-taproom-kitchen-whitefield-bangalore/info
 95,The Black Pearl,"Kadubeesanahalli, Bangalore",2100,"North Indian, Chinese, Fast Food, Street Food, Mughlai, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/the-black-pearl-kadubeesanahalli-bangalore/info
 96,Red Rhino,"Whitefield, Bangalore",2000,"Continental, North Indian, Asian, Oriental, Mediterranean, Mangalorean, Beverages, Desserts",4.4,https://www.zomato.com/bangalore/red-rhino-whitefield-bangalore/info
 97,Byg Brewski Brewing Company,"Sarjapur Road, Bangalore",2000,"Continental, North Indian, Asian, Fast Food, Pizza, Pasta, Burger, Desserts",4.6,https://www.zomato.com/bangalore/byg-brewski-brewing-company-sarjapur-road-bangalore/info
-98,Nook,"Aloft Bengaluru Cessna Business Park, Kadubeesanahalli, Bangalore",1200,"North Indian, Continental, Asian, Fast Food, South Indian, Desserts, Waffle",4.0,https://www.zomato.com/bangalore/nook-kadubeesanahalli-bangalore/info
+98,Nook,"Aloft Bengaluru Cessna Business Park, Kadubeesanahalli, Bangalore",1200,"North Indian, Continental, Asian, Fast Food, South Indian, Desserts, Waffle",4,https://www.zomato.com/bangalore/nook-kadubeesanahalli-bangalore/info
 99,Taproom By Sherlock's,"JP Nagar, Bangalore",1800,"North Indian, Oriental, Continental, Biryani, Pizza, Pasta, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/taproom-by-sherlocks-jp-nagar-bangalore/info
 100,Zoey's,"Sarjapur Road, Bangalore",700,"Burger, Beverages, Continental, Pasta, Chinese, Sandwich, Cafe, Desserts",4.2,https://www.zomato.com/bangalore/zoeys-sarjapur-road/info
 101,Moglu - The Edgy Veggie Restaurant,"St. Marks Road, Bangalore",1000,"American, Continental, Desserts, Beverages",New,https://www.zomato.com/bangalore/moglu-the-edgy-veggie-restaurant-st-marks-road-bangalore/info
@@ -170,17 +170,17 @@
 168,Omega IX Cocktail Bar And Global Kitchen,"Sahakara Nagar, Bangalore",1800,"North Indian, Continental, Asian, Sushi, Italian, Desserts, Beverages",4.5,https://www.zomato.com/bangalore/omega-ix-cocktail-bar-and-global-kitchen-sahakara-nagar-bangalore/info
 169,Shiro,"UB City, Bangalore",3500,"Japanese, Sushi, Asian, Desserts, Thai, Korean, Cantonese, Vietnamese",4.1,https://www.zomato.com/bangalore/shiro-lavelle-road/info
 170,Skyline Rooftop Bar & Kitchen,"Livin Hub Hotel, Bangalore",1800,"Chinese, Italian, Fast Food, North Indian, Kebab, Biryani, Continental, Beverages",4.4,https://www.zomato.com/bangalore/skyline-rooftop-bar-kitchen-marathahalli-bangalore/info
-171,JULIET,"1 MG Road Mall, MG Road, Bangalore",2500,"Asian, Continental, Sushi, Thai, Japanese, Desserts",4.0,https://www.zomato.com/bangalore/juliet-mg-road-bangalore/info
+171,JULIET,"1 MG Road Mall, MG Road, Bangalore",2500,"Asian, Continental, Sushi, Thai, Japanese, Desserts",4,https://www.zomato.com/bangalore/juliet-mg-road-bangalore/info
 172,Onesta,"Kammanahalli, Bangalore",1000,"Pizza, Pasta, Sandwich, Fast Food, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/onesta-kammanahalli/info
 173,Sstella Asian Kitchen And Bar,"Royal Meenakshi Mall, Bannerghatta Road, Bangalore",1000,"Asian, Chinese, Desserts, Beverages",4.5,https://www.zomato.com/bangalore/sstella-asian-kitchen-and-bar-bannerghatta-road-bangalore/info
 174,Cocobolo,"New BEL Road, Bangalore",1000,"Bar Food, North Indian, Continental, Italian, Chinese, BBQ, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/cocobolo-new-bel-road-bangalore/info
 175,Kathpal's,"Vega City, Bannerghatta Road, Bangalore",1000,"North Indian, Chinese, Biryani, Street Food, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/kathpals-bannerghatta-road-bangalore/info
 176,Hitchki,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",2000,"North Indian, Chinese, Continental, Biryani, Finger Food, Bar Food, Desserts, Beverages",4.4,https://www.zomato.com/bangalore/hitchki-kr-puram-bangalore/info
 177,Ambedo Kitchen|Taproom,"JP Nagar, Bangalore",1500,"Continental, Asian, North Indian, Italian, Pizza, Sushi",4.5,https://www.zomato.com/bangalore/ambedo-kitchen-taproom-jp-nagar-bangalore/info
-178,Gwalia,"ITPL Main Road, Whitefield, Bangalore",250,"North Indian, Street Food, Ice Cream, Mithai, Desserts",4.0,https://www.zomato.com/bangalore/gwalia-itpl-main-road-whitefield-bangalore/info
+178,Gwalia,"ITPL Main Road, Whitefield, Bangalore",250,"North Indian, Street Food, Ice Cream, Mithai, Desserts",4,https://www.zomato.com/bangalore/gwalia-itpl-main-road-whitefield-bangalore/info
 179,The Rajputana,"Brookefield, Bangalore",1000,"North Indian, Gujarati, Desserts, Mithai, Beverages",3.2,https://www.zomato.com/bangalore/the-rajputana-1-brookefield-bangalore/info
 180,Rasta Cafe,"Mysore Road, Bangalore",1200,"Cafe, Continental, Italian, Beverages, Desserts",3.2,https://www.zomato.com/bangalore/rasta-cafe-mysore-road/info
-181,Tiamo - Conrad Bengaluru,"Conrad Bengaluru, Ulsoor, Bangalore",3000,"Italian, Mediterranean, Fast Food",4.0,https://www.zomato.com/bangalore/tiamo-conrad-bengaluru-ulsoor/info
+181,Tiamo - Conrad Bengaluru,"Conrad Bengaluru, Ulsoor, Bangalore",3000,"Italian, Mediterranean, Fast Food",4,https://www.zomato.com/bangalore/tiamo-conrad-bengaluru-ulsoor/info
 182,White Garden,"Kalyan Nagar, Bangalore",1600,"North Indian, Italian, Lebanese, Asian, Continental, Desserts",4.2,https://www.zomato.com/bangalore/white-garden-kalyan-nagar-bangalore/info
 183,1522 - The Pub,"JP Nagar, Bangalore",1800,"Chinese, North Indian, Mughlai, Finger Food, Seafood",4.4,https://www.zomato.com/bangalore/1522-the-pub-jp-nagar-bangalore/info
 184,The Peak,"Sahakara Nagar, Bangalore",1000,"Continental, Mangalorean",4.3,https://www.zomato.com/bangalore/the-peak-2-sahakara-nagar-bangalore/info
@@ -200,7 +200,7 @@
 198,Burgermeister - Burgers Shakes & Wings,"HSR, Bangalore",300,"Burger, Fast Food, Shake, Beverages, Desserts",3.8,https://www.zomato.com/bangalore/burgermeister-burgers-shakes-wings-hsr-bangalore/info
 199,Tanjosh,"Domlur, Bangalore",1000,"North Indian, Mughlai, Chinese, Desserts",New,https://www.zomato.com/bangalore/tanjosh-domlur-bangalore/info
 200,Flechazo,"Marathahalli, Bangalore",1000,"North Indian, Chinese, Pizza, Continental, Fast Food, Desserts, Shake, Beverages",4.3,https://www.zomato.com/bangalore/flechazo-1-marathahalli-bangalore/info
-201,Plan B,"Koramangala 7th Block, Bangalore",1600,"American, Continental, Burger, Pizza, Tex-Mex, Fast Food",4.0,https://www.zomato.com/bangalore/plan-b-koramangala-7th-block-bangalore/info
+201,Plan B,"Koramangala 7th Block, Bangalore",1600,"American, Continental, Burger, Pizza, Tex-Mex, Fast Food",4,https://www.zomato.com/bangalore/plan-b-koramangala-7th-block-bangalore/info
 202,Levels Pub & Kitchen,"JP Nagar, Bangalore",1700,"Asian, South Indian, North Indian",4.4,https://www.zomato.com/bangalore/levels-pub-kitchen-jp-nagar-bangalore/info
 203,"Torye Drink, Dine & Dance","Rajarajeshwari Nagar, Bangalore",2000,Continental,3.7,https://www.zomato.com/bangalore/torye-drink-dine-dance-rajarajeshwari-nagar-bangalore/info
 204,Bologna,"Indiranagar, Bangalore",1500,"Italian, Pasta, Pizza, Desserts",4.8,https://www.zomato.com/bangalore/bologna-indiranagar-bangalore/info
@@ -209,18 +209,18 @@
 207,Cafe Reset Your Happy Place,"Koramangala 6th Block, Bangalore",950,"Healthy Food, Continental, Italian, Beverages",4.6,https://www.zomato.com/bangalore/cafe-reset-your-happy-place-koramangala-6th-block-bangalore/info
 208,Sugar Factory Reloaded,"Koramangala 5th Block, Bangalore",1800,"North Indian, Continental, Italian, Chinese, Asian, American",4.1,https://www.zomato.com/bangalore/sugar-factory-reloaded-koramangala-5th-block-bangalore/info
 209,Geist Brewing Co.,"Old Madras Road, Bangalore",1700,"American, Pizza, Italian, Fast Food, North Indian, Pasta, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/geist-brewing-co-old-madras-road-bangalore/info
-210,Rajdhani,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1200,"Gujarati, North Indian, Rajasthani",4.0,https://www.zomato.com/bangalore/rajdhani-1-whitefield-bangalore/info
+210,Rajdhani,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1200,"Gujarati, North Indian, Rajasthani",4,https://www.zomato.com/bangalore/rajdhani-1-whitefield-bangalore/info
 211,Inanna Tap Room,"Bannerghatta Road, Bangalore",2000,"Chinese, North Indian, Burger, Pizza, Italian, Desserts",4.1,https://www.zomato.com/bangalore/inanna-tap-room-bannerghatta-road-bangalore/info
 212,Dobaraa,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1200,"Continental, North Indian, Salad, Desserts",4.3,https://www.zomato.com/bangalore/dobaraa-kr-puram-bangalore/info
 213,Third Wave Coffee,"Banashankari, Bangalore",700,"Cafe, Coffee, Sandwich, Pizza, Fast Food, Tea, Beverages",4.1,https://www.zomato.com/bangalore/third-wave-coffee-banashankari-bangalore/info
 214,Vyana Flavors Of Nature,"JP Nagar, Bangalore",1700,"North Indian, Oriental, Continental, Chinese, Salad, Pizza, Fast Food, Desserts",3.9,https://www.zomato.com/bangalore/vyana-flavors-of-nature-jp-nagar-bangalore/info
 215,Toca,"Koramangala 5th Block, Bangalore",1400,"Chinese, Fast Food, Steak, Pasta, Asian, Biryani, Desserts",4.2,https://www.zomato.com/bangalore/toca-koramangala-5th-block-bangalore/info
-216,Oziano,"Varthur Main Road, Whitefield, Bangalore",1000,"Bengali, Biryani",4.0,https://www.zomato.com/bangalore/oziano-varthur-main-road-whitefield-bangalore/info
-217,Kapoor's Chaat Bhandaar,"Sarjapur Road, Bangalore",500,"Street Food, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/kapoors-chaat-bhandaar-sarjapur-road-bangalore/info
+216,Oziano,"Varthur Main Road, Whitefield, Bangalore",1000,"Bengali, Biryani",4,https://www.zomato.com/bangalore/oziano-varthur-main-road-whitefield-bangalore/info
+217,Kapoor's Chaat Bhandaar,"Sarjapur Road, Bangalore",500,"Street Food, Desserts, Beverages",4,https://www.zomato.com/bangalore/kapoors-chaat-bhandaar-sarjapur-road-bangalore/info
 218,Pinds Of Punjab,"Kadubeesanahalli, Bangalore",200,"North Indian, Street Food, Beverages",4.4,https://www.zomato.com/bangalore/pinds-of-punjab-kadubeesanahalli-bangalore/info
 219,Yellow Door - The Neighbourhood Kitchen,"Koramangala 5th Block, Bangalore",1100,"North Indian, Asian, Italian, Fast Food",4.3,https://www.zomato.com/bangalore/yellow-door-the-neighbourhood-kitchen-1-koramangala-5th-block-bangalore/info
 220,Dock 66,"Whitefield, Bangalore",1800,"North Indian, South Indian",4.3,https://www.zomato.com/bangalore/dock-66-1-whitefield-bangalore/info
-221,Sindh Punjab,"Brookefield, Bangalore",400,"North Indian, Sindhi, Street Food, Beverages, Chinese",4.0,https://www.zomato.com/bangalore/sindh-punjab-brookefield-bangalore/info
+221,Sindh Punjab,"Brookefield, Bangalore",400,"North Indian, Sindhi, Street Food, Beverages, Chinese",4,https://www.zomato.com/bangalore/sindh-punjab-brookefield-bangalore/info
 222,Yuki,"Indiranagar, Bangalore",1600,"Asian, Japanese, Sushi, Thai, Chinese, Salad, Desserts",4.5,https://www.zomato.com/bangalore/yuki-indiranagar-bangalore/info
 223,Gopaljee Cafe,"Brookefield, Bangalore",400,"Street Food, North Indian",4.2,https://www.zomato.com/bangalore/gopaljee-cafe-brookefield-bangalore/info
 224,Communiti,"Brigade Road, Bangalore",1800,"American, Continental, European, Italian, Oriental, Burger, Beverages",4.5,https://www.zomato.com/bangalore/communiti-brigade-road-bangalore/info
@@ -236,12 +236,12 @@
 234,Stegi - Modern Indian,"Jayanagar, Bangalore",1400,"North Indian, Italian, Fast Food, Desserts, Beverages",4.1,https://www.zomato.com/bangalore/stegi-modern-indian-jayanagar-bangalore/info
 235,Full Circle,"Rajarajeshwari Nagar, Bangalore",1504,North Indian,4.1,https://www.zomato.com/bangalore/full-circle-rajarajeshwari-nagar-bangalore/info
 236,Down Town Tap Room,"Brigade Road, Bangalore",1700,"Continental, Pizza, Burger, Fast Food, Biryani, Desserts, Bar Food, Beverages",4.6,https://www.zomato.com/bangalore/down-town-tap-room-1-brigade-road-bangalore/info
-237,Indigo XP,"Koramangala 5th Block, Bangalore",2000,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",4.0,https://www.zomato.com/bangalore/indigo-xp-koramangala-5th-block/info
+237,Indigo XP,"Koramangala 5th Block, Bangalore",2000,"North Indian, Continental, Chinese, Italian, Oriental, Thai, Biryani",4,https://www.zomato.com/bangalore/indigo-xp-koramangala-5th-block/info
 238,House Of Commons,"HSR, Bangalore",1200,"Bar Food, Fast Food, North Indian, Continental, Seafood, Italian, Chinese, Desserts",4.5,https://www.zomato.com/bangalore/house-of-commons-hsr-bangalore/info
 239,Chianti,"Forum Falcon City Mall, Kanakapura Roaad, Bangalore",1800,"Italian, Pizza, Pasta, Desserts",4.9,https://www.zomato.com/bangalore/chianti-kanakapura-road-bangalore/info
 240,Grill Daddy,"Kalyan Nagar, Bangalore",1100,"Continental, Pizza, Burger, Sandwich, Steak, Desserts, Shake, Beverages",4.2,https://www.zomato.com/bangalore/grill-daddy-kalyan-nagar-bangalore/info
 241,Mannheim Craft Brewery,"Garuda Mall, Magrath Road, Bangalore",1500,"South Indian, North Indian, Continental, Desserts, Asian",4.4,https://www.zomato.com/bangalore/mannheim-craft-brewery-brigade-road-bangalore/info
-242,Babai Tiffins,"Sarjapur Road, Bangalore",150,South Indian,4.0,https://www.zomato.com/bangalore/babai-tiffins-sarjapur-road-bangalore/info
+242,Babai Tiffins,"Sarjapur Road, Bangalore",150,South Indian,4,https://www.zomato.com/bangalore/babai-tiffins-sarjapur-road-bangalore/info
 243,Kling Brewery,"Church Street, Bangalore",1500,"Continental, European, Asian, Chinese, North Indian, South Indian, Seafood",4.2,https://www.zomato.com/bangalore/kling-brewery-church-street-bangalore/info
 244,Drink & Dine,"SG Arcade, Bangalore",1700,"North Indian, Chinese, Mughlai, Sandwich, Burger, Pizza, Biryani, Desserts",4.2,https://www.zomato.com/bangalore/drink-dine-rajarajeshwari-nagar-bangalore/info
 245,Maverick & Farmer Coffee,"Koramangala 4th Block, Bangalore",1000,"Cafe, Sandwich, Fast Food, Salad, Burger, Italian, Desserts, Beverages",3.9,https://www.zomato.com/bangalore/maverick-farmer-coffee-koramangala-4th-block-bangalore/info
@@ -254,10 +254,10 @@
 252,Shokudo,"Jayanagar, Bangalore",1500,"Japanese, Thai, Chinese, Asian, Sushi, Desserts, Beverages, Korean",4.1,https://www.zomato.com/bangalore/shokudo-jayanagar-bangalore/info
 253,Kappa Chakka Kandhari,"Koramangala 6th Block, Bangalore",1800,"Kerala, South Indian, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/kappa-chakka-kandhari-koramangala-6th-block-bangalore/info
 254,AB's - Absolute Barbecues,"Marathahalli, Bangalore",1850,"Biryani, BBQ, Kebab, North Indian, Desserts",4.5,https://www.zomato.com/bangalore/abs-absolute-barbecues-marathahalli/info
-255,MoMo Cafe - Courtyard By Marriott,"Courtyard & Fairfield by Marriott, Bangalore",2800,"North Indian, Asian, Fast Food, Continental, Italian, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/momo-cafe-courtyard-by-marriott-bellandur-bangalore/info
+255,MoMo Cafe - Courtyard By Marriott,"Courtyard & Fairfield by Marriott, Bangalore",2800,"North Indian, Asian, Fast Food, Continental, Italian, Desserts, Beverages",4,https://www.zomato.com/bangalore/momo-cafe-courtyard-by-marriott-bellandur-bangalore/info
 256,Chai Point,"Church Street, Bangalore",250,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",4.1,https://www.zomato.com/bangalore/chai-point-church-street-bangalore/info
 257,Gatsby,"Bannerghatta Road, Bangalore",2500,"Finger Food, Healthy Food, North Indian, Asian, Sushi, Chinese, South Indian, Pizza",4.4,https://www.zomato.com/bangalore/gatsby-bannerghatta-road-bangalore/info
-258,Hangover Brewery,"Koramangala 7th Block, Bangalore",2000,"Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts",4.0,https://www.zomato.com/bangalore/hangover-brewery-koramangala-7th-block-bangalore/info
+258,Hangover Brewery,"Koramangala 7th Block, Bangalore",2000,"Continental, North Indian, Chinese, Finger Food, Burger, Pizza, Desserts",4,https://www.zomato.com/bangalore/hangover-brewery-koramangala-7th-block-bangalore/info
 259,Gilly's Restobar,"Bannerghatta Road, Bangalore",2000,"North Indian, European, Bar Food, Italian, Fast Food, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/gillys-restobar-bannerghatta-road-bangalore/info
 260,Celeb’s Restobar,"Brookefield, Bangalore",1300,Bar Food,4.3,https://www.zomato.com/bangalore/celebs-restobar-brookefield-bangalore/info
 261,The Irish House,"RMZ Ecoworld, Bellandur, Bangalore",2000,"European, American, Italian, BBQ, Beverages, Desserts",4.2,https://www.zomato.com/bangalore/the-irish-house-bellandur/info
@@ -273,7 +273,7 @@
 271,Garden City Beer Collective,"Yelahanka, Bangalore",2000,"Pizza, Continental, Sushi, Asian, South Indian, Pasta, Desserts",4.3,https://www.zomato.com/bangalore/garden-city-beer-collective-yelahanka-bangalore/info
 272,Limelight - Royal Orchid Hotel,"Royal Orchid Hotel,  Old Airport Road, Bangalore",3500,"Asian, Continental, North Indian, South Indian, Healthy Food, Beverages, Desserts",3.9,https://www.zomato.com/bangalore/limelight-royal-orchid-hotel-airport-road-bangalore/info
 273,Chaayos Chai+Snacks=Relax,"Kammanahalli, Bangalore",350,"Tea, Beverages, Sandwich, Street Food",3.3,https://www.zomato.com/bangalore/chaayos-chai-snacks-relax-kammanahalli-bangalore/info
-274,Cable Car,"Jayanagar, Bangalore",1200,"Oriental, Continental, Pasta, North Indian, Desserts",4.0,https://www.zomato.com/bangalore/cable-car-jayanagar/info
+274,Cable Car,"Jayanagar, Bangalore",1200,"Oriental, Continental, Pasta, North Indian, Desserts",4,https://www.zomato.com/bangalore/cable-car-jayanagar/info
 275,"Cha Cha Cha - Dimsum, Sushi, Stir Fry","Phoenix Marketcity Bangalore, Whitefield, Bangalore",2500,"Asian, Chinese",4.2,https://www.zomato.com/bangalore/cha-cha-cha-dimsum-sushi-stir-fry-whitefield-bangalore/info
 276,You Mee,"Orion Mall, Malleshwaram, Bangalore",2200,"Asian, Sushi, Japanese, Chinese, Desserts, Beverages",4.4,https://www.zomato.com/bangalore/you-mee-malleshwaram-bangalore/info
 277,Peep In Cafe,"BTM, Bangalore",300,"Cafe, Coffee, Chinese, Fast Food, Street Food, Shake, Beverages, Desserts",3.9,https://www.zomato.com/bangalore/peep-in-cafe-btm-bangalore/info
@@ -297,7 +297,7 @@
 295,Salt - Indian Restaurant Bar & Grill,"Nexus, Koramangala, Bangalore",1800,"North Indian, Rolls, Mughlai, Seafood, Biryani, Kebab, Desserts, Beverages",4.6,https://www.zomato.com/bangalore/salt-indian-restaurant-bar-grill-koramangala-7th-block-bangalore/info
 296,Tiger Tiger Brewhouse,"Sarjapur Road, Bangalore",1600,"North Indian, Continental, Oriental, Mughlai, Andhra, European, Beverages, Desserts",4.1,https://www.zomato.com/bangalore/tiger-tiger-brewhouse-1-sarjapur-road-bangalore/info
 297,Foxtrot,"Marathahalli, Bangalore",1900,"North Indian, Mughlai, Biryani, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/foxtrot-marathahalli-bangalore/info
-298,Reboot The Pub,"Marathahalli, Bangalore",1200,"North Indian, Chinese, Continental, Italian, Biryani, Mughlai, Desserts",4.0,https://www.zomato.com/bangalore/reboot-the-pub-1-marathahalli-bangalore/info
+298,Reboot The Pub,"Marathahalli, Bangalore",1200,"North Indian, Chinese, Continental, Italian, Biryani, Mughlai, Desserts",4,https://www.zomato.com/bangalore/reboot-the-pub-1-marathahalli-bangalore/info
 299,Litti Cafe,"Sarjapur Road, Bangalore",200,"Bihari, North Indian, Street Food, Desserts",3.9,https://www.zomato.com/bangalore/litti-cafe-sarjapur-road-bangalore/info
 300,Desi Dawat,"ITPL Main Road, Whitefield, Bangalore",550,"North Indian, Chinese, Street Food",3.7,https://www.zomato.com/bangalore/desi-dawat-itpl-main-road-whitefield-bangalore/info
 301,Bombay Adda,"Koramangala 7th Block, Bangalore",2000,"Continental, North Indian, Asian, Pizza, Fast Food, Kebab, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/bombay-adda-koramangala-7th-block-bangalore/info
@@ -326,7 +326,7 @@
 324,Sri Manjunatha Cafe,"BTM, Bangalore",200,"South Indian, Chinese, Street Food, Beverages",3.9,https://www.zomato.com/bangalore/sri-manjunatha-cafe-btm-bangalore/info
 325,Lapis - The Oberoi,"The Oberoi, MG Road, Bangalore",4000,"North Indian, South Indian, Mediterranean, European, American, Italian",4.1,https://www.zomato.com/bangalore/lapis-the-oberoi-mg-road-bangalore/info
 326,Aramana Oru Nadan Oonu Kada,"Electronic City, Bangalore",300,"South Indian, Kerala, Seafood",New,https://www.zomato.com/bangalore/aramana-oru-nadan-oonu-kada-1-electronic-city-bangalore/info
-327,Blink by Zoca,"Whitefield, Bangalore",1500,"North Indian, Chinese, Thai, Continental",4.0,https://www.zomato.com/bangalore/blink-by-zoca-whitefield-bangalore/info
+327,Blink by Zoca,"Whitefield, Bangalore",1500,"North Indian, Chinese, Thai, Continental",4,https://www.zomato.com/bangalore/blink-by-zoca-whitefield-bangalore/info
 328,One Atria Cafe - Radisson Blu Atria,"Radisson Blu Atria, Bangalore",2500,"South Indian, North Indian, Chinese, Biryani",3.8,https://www.zomato.com/bangalore/one-atria-cafe-radisson-blu-atria-race-course-road-bangalore/info
 329,Pinxx - Royal Orchid Central,"Royal Orchid Central, MG Road, Bangalore",1900,"Continental, North Indian, Chinese, Sandwich, Fast Food, Desserts, Beverages",3.7,https://www.zomato.com/bangalore/pinxx-royal-orchid-central-mg-road-bangalore/info
 330,Great Room - Holiday Inn Express & Suites,"Hoskote, Bangalore",2000,"North Indian, Chinese, Continental, Biryani, Fast Food, Desserts, Beverages",4.1,https://www.zomato.com/bangalore/great-room-holiday-inn-express-suites-hoskote-bangalore/info
@@ -336,9 +336,9 @@
 334,CUR8 - Four Seasons Hotel,"Four Seasons Hotel, RT Nagar, Bangalore",4000,"European, Italian, Pizza, North Indian, Salad",4.4,https://www.zomato.com/bangalore/cur8-four-seasons-hotel-rt-nagar-bangalore/info
 335,HumbleBean Coffee,"Indiranagar, Bangalore",650,"Cafe, Coffee, Bakery, Healthy Food, Desserts, Beverages",3.8,https://www.zomato.com/bangalore/humblebean-coffee-indiranagar-bangalore/info
 336,Monk's Bar & Social,"BTM, Bangalore",1000,"Bar Food, South Indian, Asian, European, Italian, North Indian, Desserts, Beverages",4.5,https://www.zomato.com/bangalore/monks-bar-social-1-btm-bangalore/info
-337,Paragon Restaurant - Since 1939,"1 Sobha, Bangalore",1000,"Kerala, Oriental, South Indian, Chinese, Seafood, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/paragon-restaurant-since-1939-st-marks-road-bangalore/info
+337,Paragon Restaurant - Since 1939,"1 Sobha, Bangalore",1000,"Kerala, Oriental, South Indian, Chinese, Seafood, Desserts, Beverages",4,https://www.zomato.com/bangalore/paragon-restaurant-since-1939-st-marks-road-bangalore/info
 338,Haldiram's Sweets And Namkeen,"Basaveshwara Nagar, Bangalore",400,"Mithai, Bakery, Desserts, North Indian, Street Food",3.8,https://www.zomato.com/bangalore/haldirams-sweets-and-namkeen-basaveshwara-nagar-bangalore/info
-339,Pizza Hut,"RT Nagar, Bangalore",600,"Pizza, Italian, Pasta, Fast Food, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/pizza-hut-1-rt-nagar/info
+339,Pizza Hut,"RT Nagar, Bangalore",600,"Pizza, Italian, Pasta, Fast Food, Desserts, Beverages",4,https://www.zomato.com/bangalore/pizza-hut-1-rt-nagar/info
 340,District 6 Pub Brewery & Kitchen,"Malleshwaram, Bangalore",2500,"North Indian, Pizza, Italian, Bar Food, Continental, Asian, Desserts",4.5,https://www.zomato.com/bangalore/district-6-pub-brewery-kitchen-malleshwaram-bangalore/info
 341,Shao,"Radisson Blu, Marathahalli, Bangalore",3500,"Thai, Japanese, Chinese, Asian, Sichuan, Beverages",4.5,https://www.zomato.com/bangalore/shao-marathahalli-bangalore/info
 342,Arbor Brewing Company,"Brigade Road, Bangalore",1800,"American, Continental, Fast Food, Beverages",4.6,https://www.zomato.com/ArborBrewIndia/info
@@ -354,9 +354,9 @@
 352,Cafe Morish,"Richmond Road, Bangalore",800,"Continental, Asian, Pizza, Wraps, Sandwich, Burger, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/cafe-morish-richmond-road-bangalore/info
 353,Babylonia - Global Food & Cocktails,"Koramangala 7th Block, Bangalore",1500,"Continental, North Indian, Asian, Italian, Mughlai, Mediterranean, Bar Food, Desserts",4.5,https://www.zomato.com/bangalore/babylonia-global-food-cocktails-koramangala-7th-block-bangalore/info
 354,Seta,"Hilton Bangalore Embassy GolfLinks, Domlur, Bangalore",2500,"Asian, Mediterranean, Chinese, Desserts",4.4,https://www.zomato.com/bangalore/seta-domlur-bangalore/info
-355,Lord Of The Drinks,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1700,"Finger Food, Continental, European, North Indian, Italian, Asian, Sichuan",4.0,https://www.zomato.com/bangalore/lord-of-the-drinks-1-whitefield-bangalore/info
-356,Rooftop at Raw,"Koramangala 5th Block, Bangalore",1200,"Continental, Italian, Mexican, Pizza, Pasta, Beverages",4.0,https://www.zomato.com/bangalore/rooftop-at-raw-koramangala-5th-block-bangalore/info
-357,Zed The Baker,"Church Street, Bangalore",800,"Bakery, Burger, Pizza, Desserts",4.0,https://www.zomato.com/bangalore/zed-the-baker-church-street-bangalore/info
+355,Lord Of The Drinks,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1700,"Finger Food, Continental, European, North Indian, Italian, Asian, Sichuan",4,https://www.zomato.com/bangalore/lord-of-the-drinks-1-whitefield-bangalore/info
+356,Rooftop at Raw,"Koramangala 5th Block, Bangalore",1200,"Continental, Italian, Mexican, Pizza, Pasta, Beverages",4,https://www.zomato.com/bangalore/rooftop-at-raw-koramangala-5th-block-bangalore/info
+357,Zed The Baker,"Church Street, Bangalore",800,"Bakery, Burger, Pizza, Desserts",4,https://www.zomato.com/bangalore/zed-the-baker-church-street-bangalore/info
 358,Blue Tokai Coffee Roasters,"Koramangala 5th Block, Bangalore",600,"Cafe, Coffee, Healthy Food, Beverages, Desserts, American, Sandwich",3.9,https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-koramangala-5th-block-bangalore/info
 359,Toscano,"Varthur Main Road, Whitefield, Bangalore",1800,"Italian, Pizza, Pasta, Continental, Desserts, Steak, Seafood, Beverages",4.6,https://www.zomato.com/bangalore/toscano-varthur-main-road-whitefield-bangalore/info
 360,Hakuna Matata,"JP Nagar, Bangalore",1700,"North Indian, Asian, Seafood, Chinese, Biryani, Fast Food, Desserts, Beverages",4.4,https://www.zomato.com/bangalore/hakuna-matata-jp-nagar/info
@@ -398,7 +398,7 @@
 396,Range Dine In & Kitchen,"Kanakapura Road, Bangalore",500,"South Indian, North Indian, Desserts",3.2,https://www.zomato.com/bangalore/range-dine-in-kitchen-kanakapura-road-bangalore/info
 397,Maya,"Jayanagar, Bangalore",1800,"Asian, North Indian, Chinese, Thai, Beverages",4.3,https://www.zomato.com/bangalore/maya-1-jayanagar-bangalore/info
 398,Kyba- Sushi Dim Sums & More,"Sahakara Nagar, Bangalore",1400,"Chinese, Thai, Sushi, Japanese, Asian, Seafood, Desserts",4.7,https://www.zomato.com/bangalore/kyba-sushi-dim-sums-more-sahakara-nagar-bangalore/info
-399,Bhola & Blonde,"Indiranagar, Bangalore",1900,"North Indian, Lucknowi, Mughlai, Biryani, Fast Food, Desserts",4.0,https://www.zomato.com/bangalore/bhola-blonde-indiranagar-bangalore/info
+399,Bhola & Blonde,"Indiranagar, Bangalore",1900,"North Indian, Lucknowi, Mughlai, Biryani, Fast Food, Desserts",4,https://www.zomato.com/bangalore/bhola-blonde-indiranagar-bangalore/info
 400,Chili's Grill & Bar,"Lulu Mall, Bangalore",1600,"Mexican, American, Salad, Pizza, Tex-Mex, Italian, Desserts, Beverages",4.4,https://www.zomato.com/bangalore/chilis-grill-bar-majestic-bangalore/info
 401,Nanav Store & Cafe,"Indiranagar, Bangalore",950,"Pizza, Burger, Sandwich, European, Italian, Chinese",4.2,https://www.zomato.com/bangalore/nanav-store-cafe-indiranagar-bangalore/info
 402,Shift Lounge,"Domlur, Bangalore",1800,"North Indian, Italian",3.7,https://www.zomato.com/bangalore/shift-lounge-domlur-bangalore/info
@@ -421,17 +421,17 @@
 419,Marquis - Radisson Blu,"Radisson Blu, Marathahalli, Bangalore",2500,"Asian, Continental, North Indian, Fast Food, Beverages",4.8,https://www.zomato.com/bangalore/marquis-radisson-blu-marathahalli-bangalore/info
 420,Yauatcha,"1 MG Road Mall, MG Road, Bangalore",3000,"Chinese, Asian, Cantonese, Seafood, Tea, Desserts",4.3,https://www.zomato.com/bangalore/yauatcha-mg-road/info
 421,Smooth Criminal,"Koramangala 5th Block, Bangalore",1000,"Chinese, North Indian, Pizza, Japanese, Biryani, Desserts, Beverages, Continental",3.8,https://www.zomato.com/bangalore/smooth-criminal-koramangala-5th-block-bangalore/info
-422,Saffron By Sanmanaa,"Rajajinagar, Bangalore",850,"North Indian, Chinese, Pizza, Fast Food, Biryani, Ice Cream, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/saffron-by-sanmanaa-rajajinagar-bangalore/info
+422,Saffron By Sanmanaa,"Rajajinagar, Bangalore",850,"North Indian, Chinese, Pizza, Fast Food, Biryani, Ice Cream, Desserts, Beverages",4,https://www.zomato.com/bangalore/saffron-by-sanmanaa-rajajinagar-bangalore/info
 423,Mumbai Chai Cafe,"Bellandur, Bangalore",150,"Tea, Maharashtrian, Fast Food, Street Food",-,https://www.zomato.com/bangalore/mumbai-chai-cafe-bellandur-bangalore/info
 424,Taaza Thindi,"Banashankari, Bangalore",100,"South Indian, Beverages",4.7,https://www.zomato.com/bangalore/taaza-thindi-banashankari/info
 425,Bengaluru Cafe,"Jayanagar, Bangalore",100,South Indian,4.6,https://www.zomato.com/bangalore/bengaluru-cafe-jayanagar-bangalore/info
 426,Delhi Highway,"Indiranagar, Bangalore",1800,"North Indian, Chinese, Street Food, Kebab, Desserts, Beverages",4.1,https://www.zomato.com/bangalore/delhi-highway-indiranagar/info
 427,Dr. Sheesha,"Rajajinagar, Bangalore",1200,"North Indian, Chinese, Continental, Italian, Pasta, Pizza, Beverages",4.2,https://www.zomato.com/bangalore/dr-sheesha-rajajinagar-bangalore/info
-428,Beijing Bites,"Koramangala 5th Block, Bangalore",1000,"Chinese, Seafood, Thai, Rolls, Malaysian, Mughlai, Momos",4.0,https://www.zomato.com/bangalore/beijing-bites-koramangala-5th-block/info
+428,Beijing Bites,"Koramangala 5th Block, Bangalore",1000,"Chinese, Seafood, Thai, Rolls, Malaysian, Mughlai, Momos",4,https://www.zomato.com/bangalore/beijing-bites-koramangala-5th-block/info
 429,Sanadige - Goldfinch Hotel,"Goldfinch Hotel, Seshadripuram, Bangalore",1700,"Seafood, Mangalorean, Goan, South Indian, North Indian, Chinese, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/sanadige-goldfinch-hotel-seshadripuram/info
 430,Animal Bar,"Koramangala 1st Block, Bangalore",1000,"American, Continental, Italian, South Indian, North Indian, Asian, Chinese",New,https://www.zomato.com/bangalore/animal-bar-koramangala-1st-block-bangalore/info
-431,B Town Barbeque,"Rajarajeshwari Nagar, Bangalore",1700,"BBQ, South Indian, Chinese, Salad, Desserts",4.0,https://www.zomato.com/bangalore/b-town-barbeque-rajarajeshwari-nagar-bangalore/info
-432,Olio - The Wood Fired Pizzeria,"Koramangala 5th Block, Bangalore",600,"Pizza, Italian, Fast Food, Beverages",4.0,https://www.zomato.com/bangalore/olio-the-wood-fired-pizzeria-1-koramangala-5th-block-bangalore/info
+431,B Town Barbeque,"Rajarajeshwari Nagar, Bangalore",1700,"BBQ, South Indian, Chinese, Salad, Desserts",4,https://www.zomato.com/bangalore/b-town-barbeque-rajarajeshwari-nagar-bangalore/info
+432,Olio - The Wood Fired Pizzeria,"Koramangala 5th Block, Bangalore",600,"Pizza, Italian, Fast Food, Beverages",4,https://www.zomato.com/bangalore/olio-the-wood-fired-pizzeria-1-koramangala-5th-block-bangalore/info
 433,Glass – Kitchen & Bar,"Holiday Inn, Race Course Road, Bangalore., Bangalore",3500,"Modern Indian, North Indian, Continental, Biryani, Bar Food, Seafood, Desserts, Beverages",4.6,https://www.zomato.com/bangalore/glass-kitchen-bar-race-course-road-bangalore/info
 434,Publik,"Bellandur, Bangalore",1400,"North Indian, Kebab, Chinese, Continental, Mughlai, Seafood, Bar Food, Beverages",4.2,https://www.zomato.com/bangalore/publik-bellandur-bangalore/info
 435,Kerbside Bistro,"Sadashiv Nagar, Bangalore",900,"Cafe, Continental, Italian, American, Fast Food, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/kerbside-bistro-sadashiv-nagar-bangalore/info
@@ -444,9 +444,9 @@
 442,Kanti Sweets,"Sarjapur Road, Bangalore",450,"Mithai, Desserts, Street Food",3.6,https://www.zomato.com/bangalore/kanti-sweets-sarjapur-road-bangalore/info
 443,Dhanyam Cafe,"Jayanagar, Bangalore",100,"South Indian, Beverages",New,https://www.zomato.com/bangalore/dhanyam-cafe-jayanagar-bangalore/info
 444,The Kabab Studio - Goldfinch Hotel,"Goldfinch Hotel, Seshadripuram, Bangalore",2100,"North Indian, Chinese, Continental, South Indian, Oriental, Italian, Kebab",4.1,https://www.zomato.com/bangalore/the-kabab-studio-goldfinch-hotel-seshadripuram-bangalore/info
-445,Watson's,"Indiranagar, Bangalore",1600,"North Indian, Continental, Italian, European, Asian, Beverages, Desserts",4.0,https://www.zomato.com/bangalore/watsons-indiranagar-bangalore/info
-446,Secret Spot Cafe,"Jayanagar, Bangalore",700,"Cafe, Coffee, Sandwich, Burger, Italian, Fast Food, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/secret-spot-cafe-jayanagar-bangalore/info
-447,Chai Fast,"Koramangala 1st Block, Bangalore",300,"Tea, Shake, Beverages, Sandwich, Rolls, Fast Food, North Indian, Street Food",4.0,https://www.zomato.com/bangalore/chai-fast-koramangala-1st-block-bangalore/info
+445,Watson's,"Indiranagar, Bangalore",1600,"North Indian, Continental, Italian, European, Asian, Beverages, Desserts",4,https://www.zomato.com/bangalore/watsons-indiranagar-bangalore/info
+446,Secret Spot Cafe,"Jayanagar, Bangalore",700,"Cafe, Coffee, Sandwich, Burger, Italian, Fast Food, Desserts, Beverages",4,https://www.zomato.com/bangalore/secret-spot-cafe-jayanagar-bangalore/info
+447,Chai Fast,"Koramangala 1st Block, Bangalore",300,"Tea, Shake, Beverages, Sandwich, Rolls, Fast Food, North Indian, Street Food",4,https://www.zomato.com/bangalore/chai-fast-koramangala-1st-block-bangalore/info
 448,LOFT38,"Indiranagar, Bangalore",2000,"Italian, BBQ, Asian, North Indian, Fast Food, Beverages",4.2,https://www.zomato.com/LOFT38/info
 449,The Big Barn,"Kanakapura Road, Bangalore",1000,"South Indian, North Indian, Chinese, Asian, Fast Food, Pasta, Momos, Beverages",4.4,https://www.zomato.com/bangalore/the-big-barn-kanakapura-road-bangalore/info
 450,Mahe Global Kitchen,"Koramangala 5th Block, Bangalore",1400,"North Indian, Continental, Asian, Pizza, Chinese, Desserts, Shake, Beverages",New,https://www.zomato.com/bangalore/mahe-global-kitchen-koramangala-5th-block-bangalore/info
@@ -456,7 +456,7 @@
 454,Jain Sweets And Savories,"Whitefield, Bangalore",150,"Mithai, Street Food",3.7,https://www.zomato.com/bangalore/jain-sweets-and-savories-whitefield-bangalore/info
 455,Temple Of The Senses,"Church Street, Bangalore",600,"Shake, Beverages, Healthy Food",3.9,https://www.zomato.com/bangalore/temple-of-the-senses-2-church-street-bangalore/info
 456,The Biere Club,"Lavelle Road, Bangalore",2600,"Bar Food, Continental, Italian, Wraps, Salad, Middle Eastern, Pizza",4.2,https://www.zomato.com/bangalore/the-biere-club-lavelle-road-bangalore/info
-457,Neer,"Embassy Manyata Business Park,  Nagawara , Bangalore",3000,"Bar Food, Beverages, South Indian",4.0,https://www.zomato.com/bangalore/neer-2-nagawara-bangalore/info
+457,Neer,"Embassy Manyata Business Park,  Nagawara , Bangalore",3000,"Bar Food, Beverages, South Indian",4,https://www.zomato.com/bangalore/neer-2-nagawara-bangalore/info
 458,Dolci Desserts,"Cunningham Road, Bangalore",850,"Desserts, Bakery, Pasta",4.3,https://www.zomato.com/bangalore/dolci-desserts-cunningham-road/info
 459,Tiger Trail - Royal Orchid Hotel,"Royal Orchid Hotel,  Old Airport Road, Bangalore",2200,"North Indian, Mughlai, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/tiger-trail-royal-orchid-hotel-airport-road-bangalore/info
 460,Tree Tops Bar & Kitchen,"Hotel Southern Star, Lavelle Road, Bangalore",1300,"Finger Food, North Indian, Chinese, Burger, Seafood, Desserts",4.2,https://www.zomato.com/bangalore/tree-tops-bar-kitchen-lavelle-road-bangalore/info
@@ -464,7 +464,7 @@
 462,Board 4 Bored,"Basavanagudi, Bangalore",1000,"Chinese, Sandwich, Continental, Italian, Beverages, Pizza, Pasta",4.1,https://www.zomato.com/bangalore/board-4-bored-basavanagudi-bangalore/info
 463,Bake Stir Fry Cafe,"Whitefield, Bangalore",400,"Fast Food, Chinese, Beverages",3.9,https://www.zomato.com/bangalore/bake-stir-fry-cafe-whitefield-bangalore/info
 464,South Ruchis Square,"Race Course Road, Bangalore",700,"South Indian, North Indian, Chinese, Fast Food, Ice Cream, Desserts, Shake, Beverages",4.2,https://www.zomato.com/bangalore/south-ruchis-square-race-course-road/info
-465,Casa Fresco By Tea Brew,"HSR, Bangalore",950,"American, Italian, Pasta, Steak, Chinese, Momos, Bubble Tea, Beverages",4.0,https://www.zomato.com/bangalore/casa-fresco-by-tea-brew-hsr-bangalore/info
+465,Casa Fresco By Tea Brew,"HSR, Bangalore",950,"American, Italian, Pasta, Steak, Chinese, Momos, Bubble Tea, Beverages",4,https://www.zomato.com/bangalore/casa-fresco-by-tea-brew-hsr-bangalore/info
 466,"The Lantern Restaurant & Bar - The Ritz-Carlton, Bangalore","The Ritz-Carlton, Bangalore",4500,"Chinese, Momos",4.2,https://www.zomato.com/bangalore/the-lantern-restaurant-bar-the-ritz-carlton-bangalore-residency-road-bangalore/info
 467,Saffron,"Radisson Blu, Marathahalli, Bangalore",2500,"North Indian, Biryani, Mughlai, Desserts",4.6,https://www.zomato.com/bangalore/saffron-marathahalli-bangalore/info
 468,Jalebbi Kitchen & Bar,"Cunningham Road, Bangalore",1400,"North Indian, Biryani, Desserts",4.4,https://www.zomato.com/bangalore/jalebbi-kitchen-bar-cunningham-road-bangalore/info
@@ -474,12 +474,12 @@
 472,Terra Bites,"Koramangala 4th Block, Bangalore",1300,"Cafe, Coffee, Beverages, Continental, Italian, Salad, Asian, Desserts",4.2,https://www.zomato.com/bangalore/terra-bites-koramangala-4th-block-bangalore/info
 473,1 BHK - Bar House Kitchen,"Koramangala 6th Block, Bangalore",1400,"Continental, Italian, Pizza, Sandwich, Desserts, Shake, Beverages",4.3,https://www.zomato.com/bangalore/1-bhk-bar-house-kitchen-1-koramangala-6th-block-bangalore/info
 474,Suzy Q,"Cunningham Road, Bangalore",2300,"North Indian, Seafood, Continental, Asian, Chinese, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/suzy-q-cunningham-road-bangalore/info
-475,PizzaExpress,"Indiranagar, Bangalore",1400,"Pizza, Pasta, Italian, Salad, Fast Food, Desserts, Coffee, Beverages",4.0,https://www.zomato.com/bangalore/pizzaexpress-indiranagar-bangalore/info
+475,PizzaExpress,"Indiranagar, Bangalore",1400,"Pizza, Pasta, Italian, Salad, Fast Food, Desserts, Coffee, Beverages",4,https://www.zomato.com/bangalore/pizzaexpress-indiranagar-bangalore/info
 476,Nando's,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1500,"Burger, Healthy Food, Portuguese",4.4,https://www.zomato.com/bangalore/nandos-whitefield-bangalore/info
 477,Itasian,"Jakkur, Bangalore",1000,"Italian, Asian, Chinese, Sushi, Burger, Fast Food, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/itasian-jakkur-bangalore/info
 478,Momoz,"BTM, Bangalore",500,"Momos, North Indian, Chinese, Seafood, Shake, Beverages",3.8,https://www.zomato.com/bangalore/momoz-1-btm-bangalore/info
 479,LOKA - Greenpark Hotels,"Bannerghatta Road, Bangalore",1800,"South Indian, North Indian, Chinese, Fast Food, Asian, Desserts, Beverages",4.1,https://www.zomato.com/bangalore/loka-greenpark-hotels-bannerghatta-road-bangalore/info
-480,Sanchez,"UB City, Bangalore",2500,"Mexican, Beverages",4.0,https://www.zomato.com/bangalore/sanchez-lavelle-road/info
+480,Sanchez,"UB City, Bangalore",2500,"Mexican, Beverages",4,https://www.zomato.com/bangalore/sanchez-lavelle-road/info
 481,Just Loaf,"Koramangala 3rd Block, Bangalore",1000,"Burger, Fast Food, Bakery, Desserts",New,https://www.zomato.com/bangalore/just-loaf-koramangala-3rd-block-bangalore/info
 482,Nasi And Mee,"Koramangala 4th Block, Bangalore",1600,"Asian, Sushi, Thai",4.5,https://www.zomato.com/bangalore/nasi-and-mee-koramangala-4th-block/info
 483,Kebapci,"Koramangala 6th Block, Bangalore",1600,"BBQ, Turkish, Kebab, Lebanese, Desserts",4.2,https://www.zomato.com/bangalore/kebapci-koramangala-6th-block-bangalore/info
@@ -492,7 +492,7 @@
 490,Snack's Shack,"Whitefield, Bangalore",200,"Street Food, North Indian",3.7,https://www.zomato.com/bangalore/snacks-shack-whitefield-bangalore/info
 491,Dum Pukht Jolly Nabobs - ITC Windsor,"ITC Windsor, Bangalore",6000,"North Indian, Awadhi",4.7,https://www.zomato.com/bangalore/dum-pukht-jolly-nabobs-itc-windsor-sankey-road-bangalore/info
 492,Coastal Machali Co.,"Residency Road, Bangalore",1300,"North Indian, Mangalorean, Seafood",4.3,https://www.zomato.com/bangalore/coastal-machali-co-residency-road-bangalore/info
-493,Taiki,"JP Nagar, Bangalore",700,"Korean, Japanese, Sushi, Salad, Desserts, Tea, Beverages",4.0,https://www.zomato.com/bangalore/taiki-jp-nagar-bangalore/info
+493,Taiki,"JP Nagar, Bangalore",700,"Korean, Japanese, Sushi, Salad, Desserts, Tea, Beverages",4,https://www.zomato.com/bangalore/taiki-jp-nagar-bangalore/info
 494,Brahmin's Coffee Bar,"Basavanagudi, Bangalore",100,South Indian,4.7,https://www.zomato.com/bangalore/brahmins-coffee-bar-basavanagudi/info
 495,Alchemy,"The Chancery Pavilion, Residency Road, Bangalore",2500,"Bar Food, North Indian, Seafood, Biryani, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/alchemy-residency-road-bangalore/info
 496,The Dome Cafe,"Sarjapur Road, Bangalore",1600,"North Indian, Chinese, Continental, Burger, Desserts, Shake, Beverages",4.4,https://www.zomato.com/bangalore/the-dome-cafe-sarjapur-road-bangalore/info
@@ -504,8 +504,8 @@
 502,The Coffee Brewery,"KR Puram, Bangalore",800,"Cafe, Coffee, Sandwich, Fast Food, Desserts, Tea, Beverages",4.3,https://www.zomato.com/bangalore/the-coffee-brewery-kr-puram-bangalore/info
 503,Smoor,"Whitefield, Bangalore",600,"Bakery, Desserts, Beverages",4.3,https://www.zomato.com/bangalore/smoor-6-whitefield-bangalore/info
 504,Dot.yum - Aloft Hotel,"Aloft Hotel, Whitefield, Bangalore",2500,"Continental, Oriental, North Indian, Desserts, Beverages",3.7,https://www.zomato.com/bangalore/dot-yum-aloft-hotel-whitefield/info
-505,Whitefield Baking Company - Bengaluru Marriott Hotel Whitefield,"Bengaluru Marriott Hotel Whitefield, Bangalore",1500,"Bakery, American, North Indian, South Indian, Salad",4.0,https://www.zomato.com/bangalore/whitefield-baking-company-bengaluru-marriott-hotel-whitefield-whitefield/info
-506,The Sandwich Station,"Whitefield, Bangalore",400,"Sandwich, Burger, Fast Food, Rolls, Beverages, Shake",4.0,https://www.zomato.com/bangalore/the-sandwich-station-whitefield-bangalore/info
+505,Whitefield Baking Company - Bengaluru Marriott Hotel Whitefield,"Bengaluru Marriott Hotel Whitefield, Bangalore",1500,"Bakery, American, North Indian, South Indian, Salad",4,https://www.zomato.com/bangalore/whitefield-baking-company-bengaluru-marriott-hotel-whitefield-whitefield/info
+506,The Sandwich Station,"Whitefield, Bangalore",400,"Sandwich, Burger, Fast Food, Rolls, Beverages, Shake",4,https://www.zomato.com/bangalore/the-sandwich-station-whitefield-bangalore/info
 507,De Royale Spice,"KR Puram, Bangalore",600,"Chinese, Biryani, North Indian, Kebab, South Indian, Mughlai",3.2,https://www.zomato.com/bangalore/de-royale-spice-3-kr-puram-bangalore/info
 508,The Filter Coffee,"Brookefield, Bangalore",500,"South Indian, Coffee, Beverages, Street Food, Desserts",4.7,https://www.zomato.com/bangalore/the-filter-coffee-brookefield-bangalore/info
 509,Haldiram's Restaurant,"Brookefield, Bangalore",400,"Mithai, South Indian, North Indian, Sandwich, Street Food, Biryani, Beverages",3.3,https://www.zomato.com/bangalore/haldirams-restaurant-brookefield-bangalore/info
@@ -515,12 +515,12 @@
 513,Paper And Pie Cafe,"ITPL Main Road, Whitefield, Bangalore",1200,"Cafe, Italian, Continental, Desserts, Beverages, Shake",3.8,https://www.zomato.com/bangalore/paper-and-pie-cafe-itpl-main-road-whitefield-bangalore/info
 514,Pakodee’s,"Whitefield, Bangalore",200,Street Food,3.6,https://www.zomato.com/bangalore/pakodees-whitefield-bangalore/info
 515,The Eatery - Four Points By Sheraton Bengaluru,"Four Points by Sheraton Bengaluru Whitefield, Bangalore",2000,"North Indian, Chinese, Continental, Fast Food",4.1,https://www.zomato.com/bangalore/the-eatery-four-points-by-sheraton-bengaluru-whitefield-bangalore/info
-516,The Rameshwaram Cafe,"Brookefield, Bangalore",200,"South Indian, Beverages",3.0,https://www.zomato.com/bangalore/the-rameshwaram-cafe-brookefield-bangalore/info
+516,The Rameshwaram Cafe,"Brookefield, Bangalore",200,"South Indian, Beverages",3,https://www.zomato.com/bangalore/the-rameshwaram-cafe-brookefield-bangalore/info
 517,Samosa Party,"Brookefield, Bangalore",200,"Street Food, Tea, North Indian, Beverages, Mithai, Desserts",3.3,https://www.zomato.com/bangalore/samosa-party-1-brookefield-bangalore/info
 518,Biryani Pub,"Marathahalli, Bangalore",150,Biryani,3.9,https://www.zomato.com/bangalore/biryani-pub-1-marathahalli-bangalore/info
 519,Zodiac,"Fortune Select Trinity, Whitefield, Bangalore",1800,"South Indian, North Indian, Mughlai, Chinese, Fast Food, Biryani",3.3,https://www.zomato.com/bangalore/zodiac-whitefield/info
 520,Karibu - The Zuri,"The Zuri Hotels, Bangalore",3300,"South Indian, North Indian, Continental, Oriental, Italian, Sandwich, Burger, Wraps",3.6,https://www.zomato.com/bangalore/karibu-the-zuri-whitefield-bangalore/info
-521,Brunchilly - Sarovar Portico,"Marathahalli, Bangalore",1600,"North Indian, Biryani, Fast Food",4.0,https://www.zomato.com/bangalore/brunchilly-sarovar-portico-marathahalli-bangalore/info
+521,Brunchilly - Sarovar Portico,"Marathahalli, Bangalore",1600,"North Indian, Biryani, Fast Food",4,https://www.zomato.com/bangalore/brunchilly-sarovar-portico-marathahalli-bangalore/info
 522,Juice N Bites,"Whitefield, Bangalore",300,"Shake, Juices, Beverages, Street Food, Fast Food, Burger",3.9,https://www.zomato.com/bangalore/juice-n-bites-2-whitefield-bangalore/info
 523,Grill On Hot & Cool Cafe,"Marathahalli, Bangalore",200,"Burger, Shawarma, Sandwich, Fast Food, Juices, Shake, Beverages",3.5,https://www.zomato.com/bangalore/grill-on-hot-cool-cafe-marathahalli-bangalore/info
 524,Asha Tiffins,"Brookefield, Bangalore",200,South Indian,4.2,https://www.zomato.com/bangalore/asha-tiffins-brookefield-bangalore/info
@@ -537,16 +537,16 @@
 535,Mansaf Paradise,"Marathahalli, Bangalore",400,"South Indian, Street Food, Beverages",New,https://www.zomato.com/bangalore/mansaf-paradise-3-marathahalli-bangalore/info
 536,No Sugar Please!,"Brookefield, Bangalore",250,"Juices, Shake, Beverages, Healthy Food, Salad",4.1,https://www.zomato.com/bangalore/no-sugar-please-brookefield-bangalore/info
 537,Cafe Mumbai,"ITPL Main Road, Whitefield, Bangalore",200,"Maharashtrian, Street Food",3.7,https://www.zomato.com/bangalore/cafe-mumbai-itpl-main-road-whitefield-bangalore/info
-538,Kapoor's Cafe,"KR Puram, Bangalore",1000,"North Indian, Fast Food, Street Food, Desserts",4.0,https://www.zomato.com/bangalore/kapoors-cafe-kr-puram-bangalore/info
+538,Kapoor's Cafe,"KR Puram, Bangalore",1000,"North Indian, Fast Food, Street Food, Desserts",4,https://www.zomato.com/bangalore/kapoors-cafe-kr-puram-bangalore/info
 539,Whitefield SOCIAL,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",1600,"North Indian, Chinese, Biryani, Pasta, Burger, Pizza, Desserts, Beverages",4.2,https://www.zomato.com/WhitefieldSocial/info
 540,Lavonne,"Forum Shantiniketan Mall, Whitefield, Bangalore",1300,"Cafe, Tea, Beverages, Bakery, Continental, Pasta, Salad, Fast Food",4.1,https://www.zomato.com/bangalore/lavonne-1-itpl-main-road-whitefield-bangalore/info
-541,Subway,"KR Puram, Bangalore",600,"Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",3.0,https://www.zomato.com/bangalore/subway-kr-puram-bangalore/info
+541,Subway,"KR Puram, Bangalore",600,"Healthy Food, Sandwich, Fast Food, Wraps, Salad, Beverages",3,https://www.zomato.com/bangalore/subway-kr-puram-bangalore/info
 542,Flavours Radha Hometel,"Radha Hometel, Bangalore",1800,"North Indian, Continental, Chinese, Desserts, Beverages",3.3,https://www.zomato.com/bangalore/flavours-radha-hometel-whitefield/info
 543,Poha On Wheels,"Marathahalli, Bangalore",100,Street Food,3.9,https://www.zomato.com/bangalore/poha-on-wheels-marathahalli-bangalore/info
 544,Blue Tokai Coffee Roasters,"VR Bengaluru, Whitefield, Bangalore",600,"Cafe, Coffee, Healthy Food, Beverages, Desserts, American, Sandwich",4.4,https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-kr-puram-bangalore/info
 545,Thirupathi Bhimas,"Marathahalli, Bangalore",1000,"South Indian, Chinese",3.6,https://www.zomato.com/bangalore/thirupathi-bhimas-marathahalli-bangalore/info
 546,McDonald's,"Brookefield, Bangalore",400,"Fast Food, Burger, Desserts, Beverages",3.1,https://www.zomato.com/bangalore/mcdonalds-brookefield/info
-547,Leon's Burgers & Wings,"Whitefield, Bangalore",400,"Burger, Fast Food, Wraps",4.0,https://www.zomato.com/bangalore/leons-burgers-wings-whitefield-bangalore/info
+547,Leon's Burgers & Wings,"Whitefield, Bangalore",400,"Burger, Fast Food, Wraps",4,https://www.zomato.com/bangalore/leons-burgers-wings-whitefield-bangalore/info
 548,Alibabar Hari,"Whitefield, Bangalore",300,"Biryani, Mughlai",3.8,https://www.zomato.com/bangalore/alibabar-hari-whitefield-bangalore/info
 549,Purnabramha Maharashtrian Restaurant,"Brigade Metropolis, Bangalore",950,"Maharashtrian, Desserts, Beverages",3.5,https://www.zomato.com/bangalore/purnabramha-maharashtrian-restaurant-whitefield/info
 550,Starbucks Coffee,"Whitefield, Bangalore",600,"Cafe, Coffee, Desserts, Beverages",4.2,https://www.zomato.com/bangalore/starbucks-coffee-3-whitefield-bangalore/info
@@ -576,14 +576,14 @@
 574,Hatti Kaapi,"Marathahalli, Bangalore",200,"Coffee, Shake, Beverages",-,https://www.zomato.com/bangalore/hatti-kaapi-marathahalli-bangalore/info
 575,Juice Therapy,"Brookefield, Bangalore",300,"Juices, Salad",-,https://www.zomato.com/bangalore/juice-therapy-brookefield-bangalore/info
 576,Sri Udupi Food Hub,"ITPL Main Road, Whitefield, Bangalore",450,"South Indian, North Indian, Chinese, Biryani, Sandwich, Street Food, Ice Cream, Beverages",-,https://www.zomato.com/bangalore/sri-udupi-food-hub-itpl-main-road-whitefield-bangalore/info
-577,Suryawanshi,"KR Puram, Bangalore",1000,"North Indian, Maharashtrian, Malwani, Street Food, Mughlai, Seafood, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/suryawanshi-kr-puram-bangalore/info
-578,Kallayi Restaurant,"KR Puram, Bangalore",400,"Kerala, Chinese, Mangalorean, Seafood, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/kallayi-restaurant-4-kr-puram-bangalore/info
+577,Suryawanshi,"KR Puram, Bangalore",1000,"North Indian, Maharashtrian, Malwani, Street Food, Mughlai, Seafood, Desserts, Beverages",4,https://www.zomato.com/bangalore/suryawanshi-kr-puram-bangalore/info
+578,Kallayi Restaurant,"KR Puram, Bangalore",400,"Kerala, Chinese, Mangalorean, Seafood, Desserts, Beverages",4,https://www.zomato.com/bangalore/kallayi-restaurant-4-kr-puram-bangalore/info
 579,Hoskote Nati Style,"Brookefield, Bangalore",400,"South Indian, Chinese",-,https://www.zomato.com/bangalore/hoskote-nati-style-brookefield-bangalore/info
 580,Om Agarwal Bhavan,"Brookefield, Bangalore",400,"Mithai, Desserts, North Indian, Street Food",-,https://www.zomato.com/bangalore/om-agarwal-bhavan-brookefield-bangalore/info
 581,Mirzapur UP63,"Marathahalli, Bangalore",350,"North Indian, Chinese, Kebab, Sandwich, Burger, Street Food, Desserts, Beverages",-,https://www.zomato.com/bangalore/mirzapur-up63-1-marathahalli-bangalore/info
-582,Puchkas,"Marathahalli, Bangalore",200,"Street Food, North Indian, Fast Food",4.0,https://www.zomato.com/bangalore/puchkas-marathahalli-bangalore/info
+582,Puchkas,"Marathahalli, Bangalore",200,"Street Food, North Indian, Fast Food",4,https://www.zomato.com/bangalore/puchkas-marathahalli-bangalore/info
 583,1882,"DoubleTree by Hilton, Whitefield, Bengaluru, Bangalore",2000,"Continental, Asian, North Indian, Modern Indian",New,https://www.zomato.com/bangalore/1882-brookefield-bangalore/info
-584,The Coffee House,"ITPL Main Road, Whitefield, Bangalore",600,"Cafe, North Indian, Fast Food, South Indian, Street Food, Beverages, Desserts",4.0,https://www.zomato.com/bangalore/the-coffee-house-itpl-main-road-whitefield-bangalore/info
+584,The Coffee House,"ITPL Main Road, Whitefield, Bangalore",600,"Cafe, North Indian, Fast Food, South Indian, Street Food, Beverages, Desserts",4,https://www.zomato.com/bangalore/the-coffee-house-itpl-main-road-whitefield-bangalore/info
 585,Litti Mania,"Brookefield, Bangalore",250,"North Indian, Street Food",-,https://www.zomato.com/bangalore/litti-mania-brookefield-bangalore/info
 586,Udupi Upachar,"Brookefield, Bangalore",350,"South Indian, North Indian, Street Food, Chinese, Beverages, Shake, Ice Cream",4.1,https://www.zomato.com/bangalore/udupi-upachar-brookefield-bangalore/info
 587,Chef Bakers,"Whitefield, Bangalore",350,"Bakery, Desserts",-,https://www.zomato.com/bangalore/chef-bakers-6-whitefield-bangalore/info
@@ -619,15 +619,15 @@
 617,Angel's Kitchen,"Whitefield, Bangalore",200,"Kerala, South Indian",3.9,https://www.zomato.com/bangalore/angels-kitchen-whitefield/info
 618,Chill,"Radha Hometel, Bangalore",2000,"North Indian, Chinese, Continental",4.1,https://www.zomato.com/bangalore/chill-whitefield/info
 619,Sri Vishnu Palace,"Marathahalli, Bangalore",850,"North Indian, South Indian, Chinese, Ice Cream, Shake",3.1,https://www.zomato.com/bangalore/sri-vishnu-palace-marathahalli-bangalore/info
-620,Ghaas Phoos 1.0,"Brookefield, Bangalore",400,"North Indian, Fast Food, Street Food, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/ghaas-phoos-1-0-brookefield-bangalore/info
+620,Ghaas Phoos 1.0,"Brookefield, Bangalore",400,"North Indian, Fast Food, Street Food, Desserts, Beverages",4,https://www.zomato.com/bangalore/ghaas-phoos-1-0-brookefield-bangalore/info
 621,Udupi Vaibhav,"KR Puram, Bangalore",500,"North Indian, South Indian, Chinese, Street Food, Ice Cream, Beverages",3.9,https://www.zomato.com/bangalore/udupi-vaibhav-kr-puram-bangalore/info
 622,Anand Sweets And Savouries,"MS Commercials Complex, Bangalore",300,"Mithai, North Indian, Fast Food, Street Food",3.3,https://www.zomato.com/bangalore/anand-sweets-and-savouries-itpl-main-road-whitefield-bangalore/info
 623,Kidilum,"Whitefield, Bangalore",350,"Kerala, Chinese, North Indian",3.8,https://www.zomato.com/bangalore/kidilum-whitefield/info
 624,Karavali Kitchen,"Marathahalli, Bangalore",400,"North Indian, Biryani, Chinese, Sichuan",3.8,https://www.zomato.com/bangalore/karavali-kitchen-marathahalli-bangalore/info
 625,Pop Inn Restaurant,"Whitefield, Bangalore",250,"North Indian, Odia, Bengali, Chinese, South Indian",3.9,https://www.zomato.com/bangalore/pop-inn-restaurant-whitefield-bangalore/info
 626,Estaa Sweets,"Broadway Building, Whitefield, Bangalore",300,"Mithai, Street Food, Desserts",3.4,https://www.zomato.com/bangalore/estaa-sweets-whitefield-bangalore/info
-627,Foodies Hub,"Marathahalli, Bangalore",500,"North Indian, Biryani, Chinese, Sichuan",4.0,https://www.zomato.com/bangalore/foodies-hub-marathahalli-bangalore/info
-628,Tea Positive,"Marathahalli, Bangalore",400,"Street Food, Fast Food, Tea, Beverages",4.0,https://www.zomato.com/bangalore/tea-positive-marathahalli-bangalore/info
+627,Foodies Hub,"Marathahalli, Bangalore",500,"North Indian, Biryani, Chinese, Sichuan",4,https://www.zomato.com/bangalore/foodies-hub-marathahalli-bangalore/info
+628,Tea Positive,"Marathahalli, Bangalore",400,"Street Food, Fast Food, Tea, Beverages",4,https://www.zomato.com/bangalore/tea-positive-marathahalli-bangalore/info
 629,Sri Udupi Park,"Whitefield, Bangalore",600,"South Indian, North Indian, Chinese, Street Food, Ice Cream, Beverages",3.6,https://www.zomato.com/bangalore/sri-udupi-park-whitefield/info
 630,New Udupi Garden,"Marathahalli, Bangalore",1000,"South Indian, North Indian, Chinese, Salad, Biryani, Ice Cream, Shake, Beverages",3.9,https://www.zomato.com/bangalore/new-udupi-garden-1-marathahalli-bangalore/info
 631,BBQ Joint,"Whitefield, Bangalore",300,"BBQ, Fast Food, Chinese, Burger, Sandwich, Beverages",3.7,https://www.zomato.com/bangalore/bbq-joint-whitefield-bangalore/info
@@ -640,7 +640,7 @@
 638,Fresh Cafe,"Marathahalli, Bangalore",250,"Chinese, Fast Food, Desserts, Beverages, Juices",3.9,https://www.zomato.com/bangalore/fresh-cafe-marathahalli-bangalore/info
 639,Chellam Hotel,"KR Puram, Bangalore",200,South Indian,3.9,https://www.zomato.com/bangalore/chellam-hotel-kr-puram-bangalore/info
 640,Nevesa Bites,"Marathahalli, Bangalore",400,"North Indian, South Indian, Chinese, Biryani, Fast Food, Street Food, Mughlai, Beverages",3.9,https://www.zomato.com/bangalore/nevesa-bites-1-marathahalli-bangalore/info
-641,Kaafi Desi,"Marathahalli, Bangalore",300,"North Indian, Fast Food, Chinese, Mithai",4.0,https://www.zomato.com/bangalore/kaafi-desi-marathahalli/info
+641,Kaafi Desi,"Marathahalli, Bangalore",300,"North Indian, Fast Food, Chinese, Mithai",4,https://www.zomato.com/bangalore/kaafi-desi-marathahalli/info
 642,Chai Point,"Brookefield, Bangalore",400,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",3.8,https://www.zomato.com/bangalore/chai-point-brookefield/info
 643,Mrs Iyengar's Kitchen - Authentic Iyengar's Cuisine,"KR Puram, Bangalore",350,"South Indian, Tamil, Desserts",3.5,https://www.zomato.com/bangalore/mrs-iyengars-kitchen-authentic-iyengars-cuisine-kr-puram-bangalore/info
 644,Cothas Coffee,"Whitefield, Bangalore",200,"Beverages, Coffee, Shake, Street Food",-,https://www.zomato.com/bangalore/cothas-coffee-whitefield-bangalore/info
@@ -648,7 +648,7 @@
 646,Keventers Ice Cream,"Phoenix Marketcity Bangalore, Whitefield, Bangalore",300,"Ice Cream, Desserts",-,https://www.zomato.com/bangalore/keventers-ice-cream-kr-puram-bangalore/info
 647,Meat And Eat,"Marathahalli, Bangalore",400,"Burger, Sandwich, Fast Food, Wraps, Biryani, Beverages, Desserts",-,https://www.zomato.com/bangalore/meat-and-eat-marathahalli-bangalore/info
 648,Nandi Iyengars Cake Palace,"Marathahalli, Bangalore",400,"Bakery, Desserts, Street Food",3.8,https://www.zomato.com/bangalore/nandi-iyengars-cake-palace-marathahalli-bangalore/info
-649,Sendhoor Coffee,"KR Puram, Bangalore",150,South Indian,3.0,https://www.zomato.com/bangalore/sendhoor-coffee-kr-puram-bangalore/info
+649,Sendhoor Coffee,"KR Puram, Bangalore",150,South Indian,3,https://www.zomato.com/bangalore/sendhoor-coffee-kr-puram-bangalore/info
 650,Nirvana Foods,"Brookefield, Bangalore",200,"Biryani, Chinese, South Indian",3.6,https://www.zomato.com/bangalore/nirvana-foods-brookefield-bangalore/info
 651,Sri Udupi Park,"Whitefield, Bangalore",400,"North Indian, South Indian, Chinese, Street Food, Ice Cream, Beverages, Shake",3.2,https://www.zomato.com/bangalore/sri-udupi-park-2-whitefield-bangalore/info
 652,Hotel Salala,"Brookefield, Bangalore",500,"North Indian, South Indian, Chinese, Mughlai",3.8,https://www.zomato.com/bangalore/hotel-salala-brookefield/info
@@ -657,10 +657,10 @@
 655,Grills N Seeds,"Whitefield, Bangalore",1400,"North Indian, Chinese, Biryani, Mughlai, Rolls, Shawarma, Beverages",3.7,https://www.zomato.com/bangalore/grills-n-seeds-whitefield-bangalore/info
 656,Srinidhi Sagar,"Whitefield, Bangalore",300,"Chinese, South Indian, North Indian, Biryani",3.4,https://www.zomato.com/bangalore/srinidhi-sagar-1-whitefield/info
 657,Tasty Food Court- TFC,"Varthur Main Road, Whitefield, Bangalore",500,"Fast Food, Pizza, Beverages, Shake",3.8,https://www.zomato.com/bangalore/tasty-food-court-tfc-varthur-main-road-whitefield-bangalore/info
-658,Taste Of Kolkata,"Whitefield, Bangalore",600,"Biryani, Rolls, Bengali",3.0,https://www.zomato.com/bangalore/taste-of-kolkata-whitefield-bangalore/info
+658,Taste Of Kolkata,"Whitefield, Bangalore",600,"Biryani, Rolls, Bengali",3,https://www.zomato.com/bangalore/taste-of-kolkata-whitefield-bangalore/info
 659,Bella House Go Go,"KR Puram, Bangalore",1400,"Continental, Fast Food, Healthy Food, Pancake, Desserts, Beverages",3.9,https://www.zomato.com/bangalore/bella-house-go-go-kr-puram-bangalore/info
 660,New Juice It Up,"Brookefield, Bangalore",200,"Juices, Beverages, Fast Food, Shake",3.6,https://www.zomato.com/bangalore/new-juice-it-up-brookefield-bangalore/info
-661,Sassy South,"Whitefield, Bangalore",300,"South Indian, Chinese, Street Food, Desserts, Beverages",3.0,https://www.zomato.com/bangalore/sassy-south-whitefield-bangalore/info
+661,Sassy South,"Whitefield, Bangalore",300,"South Indian, Chinese, Street Food, Desserts, Beverages",3,https://www.zomato.com/bangalore/sassy-south-whitefield-bangalore/info
 662,Dakkhan Bistro,"Whitefield, Bangalore",250,"Fast Food, South Indian, North Indian, Desserts, Beverages",3.8,https://www.zomato.com/bangalore/dakkhan-bistro-2-whitefield-bangalore/info
 663,Udupi Cafe,"Whitefield, Bangalore",300,"South Indian, Chinese, North Indian, Sichuan",3.3,https://www.zomato.com/bangalore/udupi-cafe-whitefield-bangalore/info
 664,Andhra Turning Point,"Marathahalli, Bangalore",300,"South Indian, Andhra",3.7,https://www.zomato.com/bangalore/andhra-turning-point-marathahalli-bangalore/info
@@ -711,7 +711,7 @@
 709,AGS Grand,"Marathahalli, Bangalore",400,"Biryani, South Indian, Chinese, North Indian, Fast Food, Sichuan",3.9,https://www.zomato.com/bangalore/ags-grand-marathahalli-bangalore/info
 710,New Udupi Veg,"Whitefield, Bangalore",300,"North Indian, South Indian, Chinese, Sichuan",3.5,https://www.zomato.com/bangalore/new-udupi-veg-whitefield-bangalore/info
 711,Maa Tea,"Marathahalli, Bangalore",350,"Tea, Sandwich, Fast Food, Beverages",3.9,https://www.zomato.com/bangalore/maa-tea-marathahalli-bangalore/info
-712,Indori Junction,"Brookefield, Bangalore",150,Street Food,3.0,https://www.zomato.com/bangalore/indori-junction-brookefield-bangalore/info
+712,Indori Junction,"Brookefield, Bangalore",150,Street Food,3,https://www.zomato.com/bangalore/indori-junction-brookefield-bangalore/info
 713,Poori House,"Marathahalli, Bangalore",200,"Chinese, North Indian",3.9,https://www.zomato.com/bangalore/poori-house-marathahalli-bangalore/info
 714,Sree Venkateshwara Home Made Foods,"Marathahalli, Bangalore",300,"South Indian, North Indian, Chinese",3.6,https://www.zomato.com/bangalore/sree-venkateshwara-home-made-foods-marathahalli-bangalore/info
 715,Mondelice Cakes,"KR Puram, Bangalore",300,"Bakery, Fast Food",3.7,https://www.zomato.com/bangalore/mondelice-cakes-kr-puram-bangalore/info
@@ -732,7 +732,7 @@
 730,Nirvana Restaurant,"Marathahalli, Bangalore",400,"North Indian, Chinese, Kebab, Biryani, Rolls",3.3,https://www.zomato.com/bangalore/nirvana-restaurant-marathahalli-bangalore/info
 731,Kerala Cafe,"Marathahalli, Bangalore",100,"Kerala, Beverages",3.3,https://www.zomato.com/bangalore/kerala-cafe-marathahalli-bangalore/info
 732,Slurpy Shakes,"Whitefield, Bangalore",500,"Shake, Ice Cream, Desserts, Fast Food, Beverages",3.2,https://www.zomato.com/bangalore/slurpy-shakes-whitefield-bangalore/info
-733,NH 75,"Whitefield, Bangalore",850,"North Indian, Mughlai, Chinese, Biryani",3.0,https://www.zomato.com/bangalore/nh-75-whitefield-bangalore/info
+733,NH 75,"Whitefield, Bangalore",850,"North Indian, Mughlai, Chinese, Biryani",3,https://www.zomato.com/bangalore/nh-75-whitefield-bangalore/info
 734,Jhanavi Restaurant,"Marathahalli, Bangalore",500,"North Indian, Chinese, Rolls, Biryani, Seafood, Shake, Sichuan",3.2,https://www.zomato.com/bangalore/jhanavi-restaurant-marathahalli-bangalore/info
 735,The Club Cafe,"Whitefield, Bangalore",650,"Cafe, Fast Food, Pizza, Italian, Sandwich",3.3,https://www.zomato.com/bangalore/the-club-cafe-5-whitefield-bangalore/info
 736,Udupi Gokula Veg,"KR Puram, Bangalore",400,"South Indian, Chinese, North Indian",3.1,https://www.zomato.com/bangalore/udupi-gokula-veg-kr-puram-bangalore/info
@@ -742,8 +742,8 @@
 740,RC Easy Snacks,"Brookefield, Bangalore",200,"Fast Food, Street Food, Beverages",3.5,https://www.zomato.com/bangalore/rc-easy-snacks-brookefield-bangalore/info
 741,Jugo Crush,"Brookefield, Bangalore",200,"Juices, Shake, Fast Food",3.5,https://www.zomato.com/bangalore/jugo-crush-brookefield-bangalore/info
 742,Sugarkiss Bake Studio,"Whitefield, Bangalore",400,Bakery,3.3,https://www.zomato.com/bangalore/sugarkiss-bake-studio-whitefield-bangalore/info
-743,Day Night Dhaba,"Marathahalli, Bangalore",450,"Fast Food, North Indian, Beverages, Desserts, Healthy Food",3.0,https://www.zomato.com/bangalore/day-night-dhaba-2-marathahalli-bangalore/info
-744,Kheer Kadamb - Bengali Sweets and Snacks,"Whitefield, Bangalore",300,"Mithai, Street Food",3.0,https://www.zomato.com/bangalore/kheer-kadamb-bengali-sweets-and-snacks-whitefield-bangalore/info
+743,Day Night Dhaba,"Marathahalli, Bangalore",450,"Fast Food, North Indian, Beverages, Desserts, Healthy Food",3,https://www.zomato.com/bangalore/day-night-dhaba-2-marathahalli-bangalore/info
+744,Kheer Kadamb - Bengali Sweets and Snacks,"Whitefield, Bangalore",300,"Mithai, Street Food",3,https://www.zomato.com/bangalore/kheer-kadamb-bengali-sweets-and-snacks-whitefield-bangalore/info
 745,Mulbagal Dosa Center,"KR Puram, Bangalore",300,South Indian,3.1,https://www.zomato.com/bangalore/mulbagal-dosa-center-kr-puram-bangalore/info
 746,Hotel Uttam Sagar,"Whitefield, Bangalore",400,"North Indian, Chinese, Seafood, Sichuan",3.3,https://www.zomato.com/bangalore/hotel-uttam-sagar-whitefield/info
 747,Nandi Mess - Feel Like Mom's,"Whitefield, Bangalore",250,South Indian,3.3,https://www.zomato.com/bangalore/nandi-mess-feel-like-moms-whitefield-bangalore/info
@@ -753,18 +753,18 @@
 751,Santushti,"Whitefield, Bangalore",200,"North Indian, Street Food, Beverages, Bihari",2.9,https://www.zomato.com/bangalore/santushti-whitefield-bangalore/info
 752,BaraThas,"Marathahalli, Bangalore",200,"North Indian, Street Food",3.3,https://www.zomato.com/bangalore/barathas-2-marathahalli-bangalore/info
 753,Chai Central,"Forum Neighbourhood Mall, Whitefield, Bangalore",300,"Beverages, Street Food, Fast Food, Tea, Shake",3.3,https://www.zomato.com/bangalore/chai-central-1-whitefield-bangalore/info
-754,S'Mack,"Whitefield, Bangalore",500,"Fast Food, Wraps, North Indian, Beverages",3.0,https://www.zomato.com/bangalore/smack-1-whitefield-bangalore/info
+754,S'Mack,"Whitefield, Bangalore",500,"Fast Food, Wraps, North Indian, Beverages",3,https://www.zomato.com/bangalore/smack-1-whitefield-bangalore/info
 755,Ovenfresh Cakes,"Whitefield, Bangalore",600,Bakery,3.2,https://www.zomato.com/bangalore/ovenfresh-cakes-whitefield-bangalore/info
-756,Impes Family Restaurant,"KR Puram, Bangalore",400,"North Indian, Chinese, Biryani, South Indian, Street Food, Juices, Shake",3.0,https://www.zomato.com/bangalore/impes-family-restaurant-kr-puram/info
+756,Impes Family Restaurant,"KR Puram, Bangalore",400,"North Indian, Chinese, Biryani, South Indian, Street Food, Juices, Shake",3,https://www.zomato.com/bangalore/impes-family-restaurant-kr-puram/info
 757,Wow Tiffin Food,"Whitefield, Bangalore",200,North Indian,3.2,https://www.zomato.com/bangalore/wow-tiffin-food-whitefield-bangalore/info
 758,Sri Udupi Grand,"KR Puram, Bangalore",350,"South Indian, Chinese, Sichuan",3.2,https://www.zomato.com/bangalore/sri-udupi-grand-2-kr-puram-bangalore/info
 759,Poorva Restaurant,"Marathahalli, Bangalore",500,"Odia, Chinese, North Indian, Seafood",3.1,https://www.zomato.com/bangalore/poorva-restaurant-marathahalli-bangalore/info
 760,VBP Catering & Vasuda Hotel,"Whitefield, Bangalore",250,"South Indian, North Indian, Chinese",3.1,https://www.zomato.com/bangalore/vbp-catering-vasuda-hotel-whitefield-bangalore/info
 761,Sri Lakshmi Hotel,"Kaggadasapura, Bangalore",250,"Chinese, South Indian",3.1,https://www.zomato.com/bangalore/sri-lakshmi-hotel-kaggadasapura-bangalore/info
-762,Madurai Idly & Dosa Shop,"Marathahalli, Bangalore",150,South Indian,3.0,https://www.zomato.com/bangalore/madurai-idly-dosa-shop-marathahalli-bangalore/info
+762,Madurai Idly & Dosa Shop,"Marathahalli, Bangalore",150,South Indian,3,https://www.zomato.com/bangalore/madurai-idly-dosa-shop-marathahalli-bangalore/info
 763,Chatore,"Marathahalli, Bangalore",250,"Street Food, North Indian",2.9,https://www.zomato.com/bangalore/chatore-marathahalli-bangalore/info
 764,Grab N Go - Aloft Hotel,"Aloft Hotel, Whitefield, Bangalore",1800,"American, North Indian, Thai, Fast Food",2.8,https://www.zomato.com/bangalore/grab-n-go-aloft-hotel-whitefield-bangalore/info
-765,Forkfully,"Whitefield, Bangalore",450,"Biryani, Chinese, Seafood, North Indian",3.0,https://www.zomato.com/bangalore/forkfully-whitefield-bangalore/info
+765,Forkfully,"Whitefield, Bangalore",450,"Biryani, Chinese, Seafood, North Indian",3,https://www.zomato.com/bangalore/forkfully-whitefield-bangalore/info
 766,Saanvika Foods,"Brookefield, Bangalore",300,"Burger, Sandwich, Fast Food, Ice Cream, Shake, Desserts, Waffle, Beverages",3.1,https://www.zomato.com/bangalore/saanvika-foods-2-brookefield-bangalore/info
 767,Chatora Chaat Corner,"Prashanti Shopping Complex, Whitefield, Bangalore",200,Street Food,3.2,https://www.zomato.com/bangalore/chatora-chaat-corner-1-whitefield-bangalore/info
 768,Bhartiya Bhojan,"Prashanti Shopping Complex, Whitefield, Bangalore",500,"North Indian, Chinese, Biryani, Sandwich, Fast Food, Desserts, Beverages",2.9,https://www.zomato.com/bangalore/bhartiya-bhojan-whitefield-bangalore/info
@@ -946,7 +946,7 @@
 944,Ruchi Mayur Hotel,"Varthur Main Road, Whitefield, Bangalore",200,South Indian,-,https://www.zomato.com/bangalore/ruchi-mayur-hotel-varthur-main-road-whitefield-bangalore/info
 945,99 Udupi Veg,"Marathahalli, Bangalore",300,"South Indian, North Indian",-,https://www.zomato.com/bangalore/99-udupi-veg-marathahalli-bangalore/info
 946,Aroma's Hyderabad House,"Marathahalli, Bangalore",950,"Hyderabadi, Biryani, North Indian, Mughlai, Chinese, Seafood, Kebab, Beverages",4.2,https://www.zomato.com/bangalore/aromas-hyderabad-house-marathahalli-bangalore/info
-947,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli, Bangalore",2500,"North Indian, Continental, Italian, Asian, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/spice-it-ibis-bengaluru-bellandur-bangalore/info
+947,Spice It - Ibis Bengaluru,"Ibis Bengaluru, Marathahalli, Bangalore",2500,"North Indian, Continental, Italian, Asian, Desserts, Beverages",4,https://www.zomato.com/bangalore/spice-it-ibis-bengaluru-bellandur-bangalore/info
 948,The Coffee Brewery,"Bellandur, Bangalore",800,"Cafe, Sandwich, Fast Food, Bakery, Desserts, Beverages",3.4,https://www.zomato.com/bangalore/the-coffee-brewery-bellandur-bangalore/info
 949,Delice - Novotel,"Novotel Bengaluru, Marathahalli, Bangalore",1300,"Desserts, Fast Food, Italian, Continental, North Indian",4.2,https://www.zomato.com/bangalore/delice-novotel-marathahalli/info
 950,Bla Bla Chai,"Kaggadasapura, Bangalore",300,"Tea, Fast Food, Beverages",3.1,https://www.zomato.com/bangalore/bla-bla-chai-1-kaggadasapura-bangalore/info
@@ -959,11 +959,11 @@
 957,Munchin Cafe,"Varthur Main Road, Whitefield, Bangalore",350,"Momos, Sandwich, Pizza, Salad, Fast Food, Beverages",4.2,https://www.zomato.com/bangalore/munchin-cafe-1-varthur-main-road-whitefield-bangalore/info
 958,TBC- Sky Lounge,"Kadubeesanahalli, Bangalore",1500,"Continental, Italian, Asian, North Indian, South Indian, Biryani, Desserts, Beverages",4.5,https://www.zomato.com/bangalore/tbc-sky-lounge-kadubeesanahalli-bangalore/info
 959,Blue Tokai Coffee Roasters,"Bellandur, Bangalore",600,"Cafe, Coffee, Healthy Food, Beverages, Desserts, American, Sandwich",3.8,https://www.zomato.com/bangalore/blue-tokai-coffee-roasters-bellandur-bangalore/info
-960,Flavors Of India,"Bellandur, Bangalore",1800,"Oriental, Chinese, Continental, South Indian, North Indian, Desserts, Beverages",4.0,https://www.zomato.com/bangalore/flavors-of-india-bellandur-bangalore/info
+960,Flavors Of India,"Bellandur, Bangalore",1800,"Oriental, Chinese, Continental, South Indian, North Indian, Desserts, Beverages",4,https://www.zomato.com/bangalore/flavors-of-india-bellandur-bangalore/info
 961,Starbucks Coffee,"Bellandur, Bangalore",600,"Cafe, Coffee, Desserts, Beverages",3.2,https://www.zomato.com/bangalore/starbucks-coffee-3-bellandur-bangalore/info
 962,Spice Darbar,"Iris Inn, Bangalore",1200,"North Indian, Continental, Desserts, Beverages",3.8,https://www.zomato.com/bangalore/spice-darbar-marathahalli/info
 963,Mirch Masala,"Kaggadasapura, Bangalore",500,"North Indian, Chinese, Mughlai, Seafood, Biryani, Fast Food, Desserts",3.8,https://www.zomato.com/bangalore/mirch-masala-kaggadasapura-bangalore/info
-964,Wah Parantha,"Bellandur, Bangalore",450,"North Indian, Street Food",4.0,https://www.zomato.com/bangalore/wah-parantha-1-bellandur-bangalore/info
+964,Wah Parantha,"Bellandur, Bangalore",450,"North Indian, Street Food",4,https://www.zomato.com/bangalore/wah-parantha-1-bellandur-bangalore/info
 965,Dindigul Thalappakatti,"Marathahalli, Bangalore",1100,"Biryani, South Indian, North Indian, Mughlai, Chinese, Seafood, Desserts, Beverages",3.8,https://www.zomato.com/bangalore/dindigul-thalappakatti-marathahalli-bangalore/info
 966,Taste Indies,"Sarjapur Road, Bangalore",200,"Street Food, North Indian, Desserts",4.4,https://www.zomato.com/bangalore/taste-indies-sarjapur-road-bangalore/info
 967,Chai Point,"Marathahalli, Bangalore",400,"Tea, Coffee, Beverages, Shake, Fast Food, Rolls, Desserts, Cafe",4.1,https://www.zomato.com/bangalore/chai-point-2-marathahalli-bangalore/info
@@ -984,7 +984,7 @@
 982,Some Whispers,"Kadubeesanahalli, Bangalore",200,"Juices, Shake, Beverages, Desserts, Fast Food, Street Food",-,https://www.zomato.com/bangalore/some-whispers-kadubeesanahalli-bangalore/info
 983,The Odisha Cafe,"Kaggadasapura, Bangalore",100,"North Indian, Desserts",-,https://www.zomato.com/bangalore/the-odisha-cafe-3-kaggadasapura-bangalore/info
 984,Truly North Indian,"Bellandur, Bangalore",250,North Indian,4.4,https://www.zomato.com/bangalore/truly-north-indian-bellandur-bangalore/info
-985,Kairali Restaurant,"Bellandur, Bangalore",400,"Kerala, South Indian, Seafood, Biryani, Chinese, Beverages",4.0,https://www.zomato.com/bangalore/kairali-restaurant-bellandur/info
+985,Kairali Restaurant,"Bellandur, Bangalore",400,"Kerala, South Indian, Seafood, Biryani, Chinese, Beverages",4,https://www.zomato.com/bangalore/kairali-restaurant-bellandur/info
 986,Wooden Fork,"Kadubeesanahalli, Bangalore",300,South Indian,New,https://www.zomato.com/bangalore/wooden-fork-kadubeesanahalli-bangalore/info
 987,Ghar Ki Rasoi,"Bellandur, Bangalore",300,North Indian,-,https://www.zomato.com/bangalore/ghar-ki-rasoi-bellandur-bangalore/info
 988,Cremee Fresh Cakes n' Snacks,"Kaggadasapura, Bangalore",350,Bakery,4.1,https://www.zomato.com/bangalore/cremee-fresh-cakes-n-snacks-kaggadasapura-bangalore/info
