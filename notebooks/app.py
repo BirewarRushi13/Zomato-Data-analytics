@@ -1,72 +1,57 @@
 from flask import Flask, request, jsonify
-import pandas as pd
-import joblib
-import sklearn
 from flask_cors import CORS
+import joblib
+import pandas as pd
 
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # allow React frontend to communicate
 
-model_data = joblib.load('random_forest_model.joblib')
-
-df = pd.read_csv("../csv-files/clean_data.csv")
+# Load your trained model (ensure you retrained it in the scikit-learn version you're using)
+model_path = "path_to_your_model.pkl"
+model_data = joblib.load(model_path)  # this should be your RandomForest or DecisionTree
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    # Get the data from the request
-    data = request.get_json()
-    if data["cuisine"] is not None and data["location"] is not None and data["price"] is not None:
-        # Filter the DataFrame for the preferred location
-        location_filter = df['Location'].str.contains(data["location"], case=False)
-        df_location = df[location_filter]
+    try:
+        data = request.get_json()  # get JSON from frontend
+        location = data.get("location")
+        cuisine = data.get("cuisine")
+        price = data.get("price", 0)
 
-        # Find the most popular cuisine in the preferred location
-        popular_cuisine = df_location['Cuisines'].mode().iloc[0]
+        # Validate inputs
+        if not location or not cuisine or price is None:
+            return jsonify({"error": "Missing required fields"}), 400
 
-        # Calculate the average price for one in the preferred location
-        average_price = df_location['Price_for_one'].mean()
+        # Prepare dataframe for prediction (ensure your model expects the same column order!)
+        input_df = pd.DataFrame([{
+            "location": location,
+            "cuisine": cuisine,
+            "price": price
+        }])
 
-        # Find the most popular restaurant and the cuisine it serves in the preferred location
-        most_popular_restaurant = df_location.loc[df_location['Rating'].idxmax()]
-        most_popular_restaurant_name = most_popular_restaurant['Name']
-        most_popular_restaurant_cuisine = most_popular_restaurant['Cuisines']
+        # Encode categorical features if your model was trained with encoding
+        # Example using one-hot encoding (adjust to your actual preprocessing)
+        input_df_encoded = pd.get_dummies(input_df)
+        # Align with model columns if necessary
+        model_columns = model_data['columns']  # store this when training
+        input_df_encoded = input_df_encoded.reindex(columns=model_columns, fill_value=0)
 
-        # Find the most popular restaurant serving the specified cuisine in the preferred location
-        cuisine_filter = df_location['Cuisines'].str.contains(data["cuisine"], case=False)
-        if not df_location[cuisine_filter].empty:
-            most_popular_cuisine_restaurant = df_location[cuisine_filter].loc[df_location[cuisine_filter]['Rating'].idxmax()]
-            most_popular_cuisine_restaurant_name = most_popular_cuisine_restaurant['Name']
-        else:
-            return jsonify({"message": "No restaurant found serving the specified cuisine"}), 404
+        # Make prediction
+        predicted_price = model_data['model'].predict(input_df_encoded)[0]
 
-        # if data["cuisine"] is not None and data["location"] is not None and data["price"] is not None:
+        # Mock response (replace with your actual logic / post-processing)
+        response = {
+            "average_price": predicted_price,
+            "popular_cuisine": cuisine,
+            "Popular_Restaurant": "Sample Restaurant",
+            "Popular_Restaurant_serving_cuisine": "Sample Restaurant",
+            "suggested_price": round(predicted_price * 1.05, 2)
+        }
 
-        input_data = {'Location': [data["location"]], 'Cuisines': [data["cuisine"]]}
-        input_df = pd.DataFrame(input_data)
-        
-        input_df_encoded = pd.get_dummies(input_df, drop_first=True).reindex(columns=model_data["train_inputs"].columns, fill_value=0)
+        return jsonify(response)
 
-        predicted_price = model_data['model']['model']['model'].predict(input_df_encoded)[0]
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
 
-        # Price suggestion
-        if float(data["price"]) < predicted_price:
-            suggested_price = float(data["price"]) * 1.1  # Increase by 10%
-            suggested_price = min(suggested_price, predicted_price)
-        else:
-            suggested_price = predicted_price
-
-        # else:
-        #     print("Invalid inputs received. Exiting the program.")
-        return jsonify({'popular_cuisine': popular_cuisine, 
-                        "average_price": average_price,
-                        "Popular_Restaurant": most_popular_restaurant_name,
-                        "Popular_Restaurant_serving_cuisine": most_popular_cuisine_restaurant_name,
-                        "suggested_price": suggested_price
-                        })
-    else:
-        return jsonify({"message": "No restaurant found serving the specified cuisine"}), 404   
- 
-
-
-if __name__ == '__main__':
+if __name__ == "__main__":
     app.run(debug=True)
