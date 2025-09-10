@@ -1,7 +1,6 @@
 # Zomata-Data-Analytics
 
 ![Logo](https://i.ibb.co/Jx1dQqY/Screenshot-53.jpg)
-![Logo](https://ibb.co/d0HDJ0Q6)
 
 ## Project Description
 
