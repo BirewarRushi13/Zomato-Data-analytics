@@ -1,14 +1,12 @@
-# Zomata-Data-Analytics
+# Zomato-Data-Analytics
 
 ![Logo](https://i.ibb.co/Jx1dQqY/Screenshot-53.jpg)
-![Logo](https://ibb.co/d0HDJ0Q6)
+![Logo](https://i.ibb.co/ccj0mFMd/download.png)
 
 ## Project Description
 
 - Project aims to develop a recommendation model and visualize insights for startups who are planning to open remote kitchen by leveraging data scraped from the Zomato.
-
 - The primary goal is to provide competitive insights and suggestions regarding pricing and location for restaurants.
-
 - The recommendation model will analyze the scraped data and generate recommendations for optimal price for one person and locations for opening new remote restaurants or improving existing ones.
 
 ## Key Features
@@ -21,20 +19,57 @@
 
 ## Technologies Used
 
-- Python and Libraries
+- **Python and Libraries**
+  * Beautiful Soup (for web scraping)
+  * Pandas (for data manipulation)
+  * Scikit-learn (for machine learning models)
+  * Flask (for backend API)
+  * Joblib (for model serialization)
 
-* Beautiful Soup (for web scraping)
-* Pandas (for data manipulation)
-* Scikit-learn (for machine learning models)
+- **Visualization Tool**
+  * Power BI (for data visualization)
 
-- Visualization Tool
+- **Website**
+  * ReactJS (for frontend)
+  * Material-UI (for UI components)
+  * Axios (for API communication)
+  * CSS3 (for custom styling)
 
-* Power BI (for data visualization)
+## File Structure
 
-- Website
+```
+zomato-analytics/
+├── backend/
+│   ├── app.py
+│   ├── random_forest_model.joblib
+│   └── requirements.txt
+├── frontend/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── resources/
+│   ├── package.json
+│   └── public/
+├── csv-files/
+│   └── clean_data.csv
+└── README.md
+```
 
-* ReactJS (for frontend)
-* Flask (for backend)
+## Installation & Setup
+
+```bash
+# Backend Setup
+cd backend
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+pip install flask flask-cors pandas scikit-learn joblib
+python app.py
+
+# Frontend Setup
+cd frontend
+npm install @mui/material @emotion/react @emotion/styled axios
+npm start
+```
 
 ## Challenges
 
@@ -46,18 +81,19 @@
 
 - **Model Performance and Optimization**: Enhancing the model's predictive capabilities for better recommendations was an ongoing challenge that required further exploration.
 
-## Dashboard
+## Dashboard and Webpage
 
 ![Dashboard](https://i.ibb.co/MMDmwc2/Screenshot-56.jpg)
+![Webpage](https://i.ibb.co/m5F64vR5/Screenshot-2025-09-11-022319.png)
 
-## Conclusion
+## 🎯 Conclusion
 
 The project involved the development of machine learning models for predicting restaurant pricing and optimal locations. The performance of these models varied significantly:
 
-### Price Prediction Model
+### 💰 Price Prediction Model
 
 The model developed for predicting the price for one person at a restaurant achieved an impressive accuracy score of over 90%. This high level of accuracy demonstrates the model's proficiency in analyzing various factors, such as cuisine type, location, and other relevant features, to provide reliable price estimates.
 
-### Location Recommendation Model
+### 📍 Location Recommendation Model
 
 However, predicting suitable locations proved to be a complex task.
