@@ -80,8 +80,7 @@ npm start
 
 ## 📊 Dashboard
 ![Dashboard](https://i.ibb.co/tM5S2K5R/Screenshot-2025-09-11-031159.png)
-Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiZDZiNTdiOGItOGY3Yy00OWJhLTkzNDctZTQzZjMzNmZhYTgzIiwidCI6Ijg0MWU5OTFmLTE3MzAtNDMzZi04MmJhLWVhNzg5NTAwNGZmYSJ9
-
+Dashboard Link - http://bit.ly/4m9xsRC
 ## 🎯 Conclusion
 The project involved the development of machine learning models for predicting restaurant pricing and optimal locations. The performance of these models varied significantly:
 
