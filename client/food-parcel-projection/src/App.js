@@ -1,132 +1,250 @@
 import './App.css';
-import logo from "./resources/logo.png"
-import { useState } from 'react';
-import { TextField, Button, MenuItem, Select, InputLabel, FormControl } from "@mui/material"
-import axios from "axios"
+import logo from "./resources/logo.png";
+import { useState, useEffect } from 'react';
+import { TextField, Button, MenuItem, Select, InputLabel, FormControl, CircularProgress } from "@mui/material";
+import axios from "axios";
+
+const API_BASE_URL = "http://127.0.0.1:5000";
 
 function App() {
   const [inputs, setInputs] = useState({ location: "", cuisine: "", price: "0" });
   const [prediction, setPrediction] = useState(null);
   const [error, setError] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [locations, setLocations] = useState([]);
+  const [cuisines, setCuisines] = useState([]);
+  const [dataLoading, setDataLoading] = useState(true);
 
-  const config = {
-    headers: {
-      'Content-Type': 'application/json'
+  // Fetch dropdown options from Flask backend
+  useEffect(() => {
+    fetchOptions();
+  }, []);
+
+  const fetchOptions = async () => {
+    try {
+      setDataLoading(true);
+      console.log("Fetching options from backend...");
+      
+      const response = await axios.get(`${API_BASE_URL}/options`);
+      const data = response.data;
+      
+      console.log("Received options:", data);
+      
+      setLocations(data.locations || []);
+      setCuisines(data.cuisines || []);
+      
+      if (data.locations?.length === 0 || data.cuisines?.length === 0) {
+        setError("No data available. Please check your CSV file.");
+      }
+    } catch (err) {
+      console.error("Failed to fetch options:", err);
+      setError(`Failed to load data from server: ${err.response?.data?.error || err.message}`);
+    } finally {
+      setDataLoading(false);
     }
   };
-
-  // Predefined locations and cuisines
-  const locations = ["Koramangala", "Indiranagar", "Whitefield", "HSR Layout"];
-  const cuisines = ["North Indian", "Chinese", "Italian", "South Indian", "Mexican"];
 
   const handleSubmit = async (e) => {
     e.preventDefault();
     
-    const payload = {
-      ...inputs,
-      price: parseInt(inputs.price)
+    if (!inputs.location || !inputs.cuisine) {
+      setError("Please select both location and cuisine.");
+      return;
+    }
+
+    setLoading(true);
+    setError(null);
+    setPrediction(null);
+    
+    const payload = { 
+      ...inputs, 
+      price: parseInt(inputs.price) || 0 
     };
 
-    axios.post("http://127.0.0.1:5000/predict", payload, config)
-         .then((res) => {
-            setPrediction(res.data);
-            setError(null);
-         })
-         .catch((err) => {
-            setError("Invalid input or server error. Please try again.");
-            setPrediction(null);
-            console.error(err.message);
-         })
-  }
+    try {
+      console.log("Sending prediction request:", payload);
+      
+      const response = await axios.post(`${API_BASE_URL}/predict`, payload, {
+        headers: { 'Content-Type': 'application/json' },
+        timeout: 10000
+      });
+      
+      console.log("Prediction response:", response.data);
+      setPrediction(response.data);
+    } catch (err) {
+      console.error("Prediction error:", err);
+      const errorMessage = err.response?.data?.error || err.message || "Server error occurred";
+      setError(`Prediction failed: ${errorMessage}`);
+    } finally {
+      setLoading(false);
+    }
+  };
 
   const handleChange = (event) => {
     setInputs((prev) => ({
       ...prev,
       [event.target.name]: event.target.value
     }));
+    
+    if (prediction) {
+      setPrediction(null);
+    }
   };
 
   return (
-    <div className="fpp_hp">
-      <div className="fpp_hp_header">
-        <img className="fpp_hp_header_img" src={logo} alt="logo" />
-      </div>
+    <div>
+      {/* Header with your existing styling */}
+      <header className="fpp_hp_header">
+        <img src={logo} alt="Logo" className="fpp_hp_header_img" />
+      </header>
 
-      <form className="fpp_hp_container" onSubmit={handleSubmit}>
-        <h2 className="fpp_hp_form_title">AI-Driven Price and Location Prediction</h2>
-        <p className="fpp_hp_form_p">Predicting ideal locations, prices and competitive insights for your remote kitchen startup in Bangalore.</p>
-        
-        <div className='fpp_hp_form'>
-          <FormControl variant="standard" className="fpp_hp_form_input">
+      {/* Main container with your existing styling */}
+      <div className="fpp_hp_container">
+        <div>
+          <h2 className="fpp_hp_form_title">🍽️ AI-Driven Restaurant Analytics</h2>
+          <p className="fpp_hp_form_p">Get insights on pricing and popular restaurants for your location and cuisine preferences.</p>
+        </div>
+
+        {/* Loading indicator */}
+        {dataLoading && (
+          <div style={{ display: 'flex', alignItems: 'center', gap: '10px', color: '#d30c2b' }}>
+            <CircularProgress size={20} style={{ color: '#d30c2b' }} />
+            <span>Loading restaurant data...</span>
+          </div>
+        )}
+
+        {/* Error display */}
+        {error && (
+          <div className="fpp_hp_rec_sugg_err">
+            <p>{error}</p>
+            <Button 
+              onClick={() => { setError(null); fetchOptions(); }} 
+              style={{ color: '#d30c2b', marginTop: '10px' }}
+            >
+              Retry
+            </Button>
+          </div>
+        )}
+
+        {/* Form with your existing styling */}
+        <form className="fpp_hp_form" onSubmit={handleSubmit}>
+          <FormControl variant="outlined" className="fpp_hp_form_input">
             <InputLabel>Location</InputLabel>
             <Select
               name="location"
               value={inputs.location}
               onChange={handleChange}
+              disabled={dataLoading || locations.length === 0}
+              label="Location"
             >
-              {locations.map((loc) => (
-                <MenuItem key={loc} value={loc}>{loc}</MenuItem>
-              ))}
+              {locations.length > 0 ? (
+                locations.map((loc) => (
+                  <MenuItem key={loc} value={loc}>
+                    {loc}
+                  </MenuItem>
+                ))
+              ) : (
+                <MenuItem value="" disabled>
+                  {dataLoading ? "Loading..." : "No locations available"}
+                </MenuItem>
+              )}
             </Select>
           </FormControl>
 
-          <FormControl variant="standard" className="fpp_hp_form_input">
+          <FormControl variant="outlined" className="fpp_hp_form_input">
             <InputLabel>Cuisine</InputLabel>
             <Select
               name="cuisine"
               value={inputs.cuisine}
               onChange={handleChange}
+              disabled={dataLoading || cuisines.length === 0}
+              label="Cuisine"
             >
-              {cuisines.map((cui) => (
-                <MenuItem key={cui} value={cui}>{cui}</MenuItem>
-              ))}
+              {cuisines.length > 0 ? (
+                cuisines.map((cuisine) => (
+                  <MenuItem key={cuisine} value={cuisine}>
+                    {cuisine}
+                  </MenuItem>
+                ))
+              ) : (
+                <MenuItem value="" disabled>
+                  {dataLoading ? "Loading..." : "No cuisines available"}
+                </MenuItem>
+              )}
             </Select>
           </FormControl>
 
           <TextField 
             className="fpp_hp_form_input" 
             name="price" 
-            label="Preferred Price For One" 
-            variant="standard" 
+            label="Your Budget (₹)" 
+            variant="outlined" 
             onChange={handleChange} 
             type='number' 
             value={inputs.price}
+            inputProps={{ min: 0, step: 1 }}
           />
-        </div>
 
-        <Button 
-          type="submit"
-          className='fpp_hp_form_button' 
-          variant="contained" 
-          color="error"
-        >
-          Predict Price and Location
-        </Button>
-      </form>
+          <Button 
+            type="submit"
+            variant="contained" 
+            disabled={loading || dataLoading || !inputs.location || !inputs.cuisine}
+            style={{
+              backgroundColor: loading ? '#ccc' : '#d30c2b',
+              color: 'white',
+              padding: '12px 24px',
+              borderRadius: '8px',
+              minWidth: '200px'
+            }}
+          >
+            {loading ? (
+              <>
+                <CircularProgress size={16} color="inherit" style={{ marginRight: '8px' }} />
+                Analyzing...
+              </>
+            ) : (
+              'Get Restaurant Insights'
+            )}
+          </Button>
+        </form>
 
-      {prediction && (
-        <div className='fpp_hp_rec'>
-          <div className='fpp_hp_rec_sugg'>
-            <h3 className='fpp_hp_rec_sugg-h'>Based on Your Prefered Location</h3>
-            <p>Average Price for One: <span className='fpp_hp_rec_sugg-span'>{parseFloat(prediction.average_price.toFixed(2))}</span></p>
-            <p>Popular Cuisine: <span className='fpp_hp_rec_sugg-span'>{prediction.popular_cuisine}</span></p>
-            <p>Popular Restaurant: <span className='fpp_hp_rec_sugg-span'>{prediction.Popular_Restaurant}</span></p>
-            <p>Popular Restaurant serving {inputs.cuisine}: <span className='fpp_hp_rec_sugg-span'>{prediction.Popular_Restaurant_serving_cuisine}</span></p>
+        {/* Results using your existing styling */}
+        {prediction && (
+          <div className="fpp_hp_rec animate-fadeIn">
+            <div className="fpp_hp_rec_sugg">
+              <h3 className="fpp_hp_rec_sugg-h">📊 Analysis Results</h3>
+              
+              <div style={{ marginBottom: '15px' }}>
+                <p>Average Price per Person: <span className="fpp_hp_rec_sugg-span">₹{prediction.average_price}</span></p>
+              </div>
+              
+              <div style={{ marginBottom: '15px' }}>
+                <p>Most Popular Cuisine: <span className="fpp_hp_rec_sugg-span">{prediction.popular_cuisine}</span></p>
+              </div>
+              
+              <div style={{ marginBottom: '15px' }}>
+                <p>Top Rated Restaurant: <span className="fpp_hp_rec_sugg-span">{prediction.Popular_Restaurant}</span></p>
+              </div>
+              
+              <div style={{ marginBottom: '15px' }}>
+                <p>Top {inputs.cuisine} Restaurant: <span className="fpp_hp_rec_sugg-span">{prediction.Popular_Restaurant_serving_cuisine}</span></p>
+              </div>
+            </div>
+
+            <div className="fpp_hp_rec_sugg">
+              <h3 className="fpp_hp_rec_sugg-h">💡 Pricing Suggestion</h3>
+              <p>Recommended price: <span className="fpp_hp_rec_sugg-span" style={{ fontSize: '1.5em', fontWeight: 'bold' }}>₹{prediction.suggested_price}</span></p>
+            </div>
           </div>
+        )}
 
-          <div className='fpp_hp_rec_sugg'>
-            <h3 className='fpp_hp_rec_sugg-h'>Suggestions Based on Your Preferences</h3>
-            <p>Suggested Price for One: <span className='fpp_hp_rec_sugg-span'>{prediction.suggested_price} Rupees</span></p>
+        {/* Data stats */}
+        {!dataLoading && (locations.length > 0 || cuisines.length > 0) && (
+          <div style={{ fontSize: '12px', color: '#666', textAlign: 'center' }}>
+            {locations.length} locations • {cuisines.length} cuisines available
           </div>
-        </div>
-      )}
-
-      {error && (
-        <div>
-          <h3 className='fpp_hp_rec_sugg_err'>{error}</h3>
-        </div>
-      )}
-
+        )}
+      </div>
     </div>
   );
 }
